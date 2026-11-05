@@ -1,0 +1,22 @@
+{
+  "status": "PASSED",
+  "counts": {
+    "source_pools": 49999,
+    "unique_candidates": 226477,
+    "top_composite_ties": 6735,
+    "training_sources": 49998
+  },
+  "training_primary_origin_counts": {
+    "F2": 6282,
+    "T3_full508": 4095,
+    "T2": 5063,
+    "F1": 3243,
+    "T1": 13458,
+    "N1": 5134,
+    "P1": 12723
+  },
+  "candidate_scores_sha256": "48cddbd848511b3645dec5a7cd57cf968e771e343ddba3181513b614b50eb71d",
+  "training_winners_verified_against_frozen_corpus": 49998,
+  "duplicate_route_score_equality_checks": 123516,
+  "representation": "Text-free reconstruction of historical four-score selection; not a byte-for-byte copy of historical ranked JSON. No model scores recomputed."
+}

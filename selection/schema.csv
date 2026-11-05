@@ -1,0 +1,20 @@
+column,type,definition
+source_id,string,Public source label; all candidates for one source are contiguous
+candidate_id,string,Public unique translation label within the source pool
+primary_origin,string,First origin under the fixed attribution priority
+origins,string,All route labels sharing the exact original target string; separated by |
+n_unique,integer,Number of distinct target strings in this source pool
+training_included,integer,1 if the source belongs to the frozen 49998 training records; otherwise 0
+qe_raw,float,Original reference-free COMET-QE score; higher is better
+cosine_raw,float,Original SONAR cosine score; higher is better
+qwen_raw,float,Original Qwen yes-logit minus no-logit; higher is better
+margin_raw,float,Original standard k=4 SONAR margin ratio; higher is better
+qe_relative_rank,float,Normalized within-source average rank of QE
+cosine_relative_rank,float,Normalized within-source average rank of cosine
+qwen_relative_rank,float,Normalized within-source average rank of Qwen
+margin_relative_rank,float,Normalized within-source average rank of margin
+rank_sum_twice,integer,Sum of the four twice-average-rank numerators
+rank_denominator_twice,integer,2 times (n_unique-1) or 2 for a singleton
+weighted_score,float,rank_sum_twice divided by (4 times rank_denominator_twice)
+selected,integer,1 for the unique winning candidate of this source; otherwise 0
+selection_position,integer,Position after total score and the complete tie-break; 1 is best

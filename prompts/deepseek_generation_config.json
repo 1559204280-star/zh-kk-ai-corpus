@@ -1,0 +1,83 @@
+{
+  "provider": "DeepSeek",
+  "endpoint": "https://api.deepseek.com/chat/completions",
+  "requested_model_alias": "deepseek-flash",
+  "observed_response_model_alias": "deepseek-flash",
+  "service_revision": null,
+  "revision_limit": "An immutable server-side weight revision and system fingerprint were not retained. The alias alone does not guarantee identical future outputs.",
+  "payload_common": {
+    "thinking": {
+      "type": "disabled"
+    },
+    "max_tokens": 512,
+    "stream": false,
+    "seed_field_sent": false
+  },
+  "styles": {
+    "T1": {
+      "instruction_file": "t1_zh.txt",
+      "temperature": 0.0,
+      "top_p": 1.0
+    },
+    "T2": {
+      "instruction_file": "t2_zh.txt",
+      "temperature": 0.8,
+      "top_p": 0.9
+    },
+    "T3": {
+      "instruction_file": "t3_zh.txt",
+      "temperature": 0.7,
+      "top_p": 0.9
+    }
+  },
+  "new_40000_source_expansion": {
+    "source_order_start": 10001,
+    "source_order_end": 50000,
+    "concurrency": 4
+  },
+  "response_handling": {
+    "translation": "First choice message.content, followed by .strip().",
+    "completed": "Nonempty translation and finish_reason == stop."
+  },
+  "historical_reuse": {
+    "first_1000_final_T3": {
+      "full508_regenerated": 194,
+      "reused_original_T3": 806
+    },
+    "sources_reused_when_expanding_to_50000": 10000,
+    "limit": "The final dataset combines historical stages; do not describe every retained T3 as a fresh execution of the full508 template."
+  },
+  "client_recorded_time_windows": [
+    {
+      "stage": "First 1,000 sources: original T1/T2/T3",
+      "attempt_records": 3000,
+      "completed_records": 3000,
+      "client_recorded_start": "2026-09-29T01:39:29.643086+08:00",
+      "client_recorded_end": "2026-09-29T02:37:42.724613+08:00"
+    },
+    {
+      "stage": "Full508 T3 regeneration within first 1,000 sources",
+      "attempt_records": 194,
+      "completed_records": 194,
+      "client_recorded_start": "2026-09-29T19:07:08.072768+08:00",
+      "client_recorded_end": "2026-09-29T19:14:08.688213+08:00"
+    },
+    {
+      "stage": "Next 9,000 sources",
+      "attempt_records": 27002,
+      "completed_records": 26999,
+      "client_recorded_start": "2026-10-03T06:54:33.959226+08:00",
+      "client_recorded_end": "2026-10-03T18:25:10.035570+08:00",
+      "note": "Three length failures refer to the same incomplete candidate; attempts are not unique successful candidates."
+    },
+    {
+      "stage": "Next 40,000 sources",
+      "attempt_records": 120000,
+      "completed_records": 120000,
+      "client_recorded_start": "2026-10-03T20:51:02.202893+08:00",
+      "client_recorded_end": "2026-10-04T04:52:42.248099+08:00"
+    }
+  ],
+  "time_semantics": "These are timestamps recorded when the client wrote response records, not provider-created timestamps or immutable API snapshots.",
+  "history_warning": "Earlier strong-constraint or temperature-zero T3 experiments are not substitutes for this final configuration."
+}

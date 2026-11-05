@@ -1,0 +1,47 @@
+{
+  "placeholder_convention": "Braced identifiers are documentation placeholders, not text sent literally to a model.",
+  "file_bytes": "Prompt-constant text files have no added terminal newline. The Qwen full template intentionally ends with two newlines from the recorded suffix.",
+  "translation_messages": [
+    {
+      "role": "system",
+      "content_file": "system_zh.txt"
+    },
+    {
+      "role": "user",
+      "content_assembly": "Join the ordered parts below with exactly two newline characters."
+    }
+  ],
+  "user_parts": [
+    "T1/T2/T3 style instruction",
+    "T3 only: terminology block, if at least one source head matched",
+    "中文： followed immediately by source.strip()",
+    "哈萨克语："
+  ],
+  "terminology_block": {
+    "header_file": "t3_hint_zh.txt",
+    "separator_after_header": "\n",
+    "term_line_file": "t3_term_line_template.txt",
+    "line_separator": "\n",
+    "options_separator": " / ",
+    "multiple_options_suffix": "（按语境选择一种）",
+    "single_option_suffix": "",
+    "option_handling": "Keep each distinct associated glossary cell value as an unchanged string. Do not split or rewrite a cell value during prompt assembly. Group all options of one Chinese head on one line."
+  },
+  "source_matching": {
+    "order": "Sort Chinese heads by descending character length, then lexicographic order.",
+    "span_rule": "Literal, non-overlapping source spans, with longer matches taking priority.",
+    "occurrences": "Scan all occurrences; include each selected Chinese head at most once per sentence.",
+    "options": "Retain all distinct Kazakh cell values associated with each selected head, in input order.",
+    "normalization": "No source spelling correction, stemming or synonym expansion is added by this matcher."
+  },
+  "no_terms_behavior": "Omit the terminology block entirely, without inserting an empty extra part. For new-source expansion, T3 is still generated using its own T3 instruction and decoding parameters.",
+  "qwen": {
+    "full_template_file": "qwen_chat_template.txt",
+    "instruction_file": "qwen_instruction.txt",
+    "tokenizer_add_special_tokens": false,
+    "truncation": false,
+    "maximum_input_tokens": 2048,
+    "score_for_ranking": "yes_logit - no_logit",
+    "display_probability": "sigmoid(yes_logit - no_logit), not a calibrated translation-quality probability"
+  }
+}

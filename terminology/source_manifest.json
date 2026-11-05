@@ -1,0 +1,61 @@
+{
+  "status": "ALIGNED_ENTRIES_INCLUDED_AUTHOR_AUTHORIZED",
+  "aligned_record_count": 508,
+  "distinct_chinese_head_count": 344,
+  "distinct_raw_chinese_kazakh_pair_count": 346,
+  "chinese_source_record_counts": {
+    "AITD": 202,
+    "GoogleML": 91,
+    "GIST": 215
+  },
+  "alignment_scope": "English is the primary alignment bridge. The separate Russian-mediated expansion/review queue is excluded from these 508 core records.",
+  "sources": [
+    {
+      "id": "AITD",
+      "name": "Artificial Intelligence Terminology Database",
+      "role": "Chinese-English concept names",
+      "core_chinese_source_records": 202,
+      "version": "3.1",
+      "upstream_release_date_as_recorded": "2022-02-16",
+      "snapshot_date_as_recorded": "2026-09-24",
+      "source_url": "https://github.com/jiqizhixin/Artificial-Intelligence-Terminology-Database"
+    },
+    {
+      "id": "GoogleML",
+      "name": "Google Machine Learning Glossary",
+      "role": "Chinese-English concept names",
+      "core_chinese_source_records": 91,
+      "version": "Unversioned glossary; saved source note records a 2026-04-10 page update label",
+      "snapshot_date_as_recorded": "2026-09-24",
+      "source_url": "https://developers.google.com/machine-learning/glossary",
+      "language_urls": {
+        "en": "https://developers.google.com/machine-learning/glossary?hl=en",
+        "zh": "https://developers.google.com/machine-learning/glossary?hl=zh-CN"
+      }
+    },
+    {
+      "id": "GIST",
+      "name": "GIST: Glossary of Multilingual AI Scientific Terminology",
+      "role": "Chinese-English-Russian concept names aligned with ISSAI",
+      "core_chinese_source_records": 215,
+      "version": "Local snapshot label 20260924; immutable upstream revision not recorded",
+      "source_url": "https://huggingface.co/datasets/Jerry999/multilingual-terminology",
+      "project_url": "https://github.com/jiarui-liu/MultilingualAITerminology"
+    },
+    {
+      "id": "ISSAI",
+      "name": "NU ISSAI AI and Robotics Glossary",
+      "role": "English-Kazakh-Russian equivalents used by all core aligned records",
+      "core_aligned_records_supported": 508,
+      "version": "Unversioned spreadsheet; local snapshot label 20260924",
+      "source_url": "https://issai.nu.edu.kz/glossary/"
+    }
+  ],
+  "aligned_entries_file": "full508.csv",
+  "aligned_entries_sha256": "2fa841d3f46655524211954e4d4cee6345e592bec1fde74dae052b9fb4f39e55",
+  "author_release_authorization": {
+    "date": "2026-11-05",
+    "basis": "Authors explicitly approved including the 508-entry table in the upload package.",
+    "upstream_license_note": "Retained source notices are unchanged in substance; author authorization is not asserted as independent verification of all upstream permissions."
+  }
+}

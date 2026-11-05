@@ -1,0 +1,509 @@
+﻿entry_id,chinese_term_source,source_entry_id,zh_term,en_term_zh_source,en_term_issai,ru_term,kk_term_cyrillic,alignment_method,alignment_status
+T0001,AITD v3.1,AITD-00007,准确率,Accuracy,Accuracy,Точность/Аккуратность,Болжам Дәлдігі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0002,AITD v3.1,AITD-00015,激活函数,Activation Function,Activation Function,Функция Активации,Белсендіру/Активация Функциясы,规范化英文精确匹配,四语已对齐（ISSAI）
+T0003,AITD v3.1,AITD-00031,仿射变换,Affine Transformation,Affine Transformation,Аффинное Преобразование,Аффин Түрлендіру,规范化英文精确匹配,四语已对齐（ISSAI）
+T0004,AITD v3.1,AITD-00036,算法,Algorithm,Algorithm,Алгоритм,Алгоритм,规范化英文精确匹配,四语已对齐（ISSAI）
+T0005,AITD v3.1,AITD-00046,异常检测,Anomaly Detection,Anomaly Detection,Выявление Аномалий / Обнаружение Выбросов,Аномалияларды Анықтау / Шығарындыларды Анықтау,规范化英文精确匹配,四语已对齐（ISSAI）
+T0006,AITD v3.1,AITD-00057,算术编码,Arithmetic Coding,Arithmetic Coding,Арифметическое Кодирование,Арифметикалық Кодтау,规范化英文精确匹配,四语已对齐（ISSAI）
+T0007,AITD v3.1,AITD-00060,人工神经网络,Artificial Neural Network,Artificial Neural Network,Искусственная Нейронная Сеть,Жасанды Нейрондық Желі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0008,AITD v3.1,AITD-00067,异步,Asynchronous,Asynchronous,Асинхронный,Асинхронды,规范化英文精确匹配,四语已对齐（ISSAI）
+T0009,AITD v3.1,AITD-00069,注意力,Attention,Attention,Внимание,Назар,规范化英文精确匹配,四语已对齐（ISSAI）
+T0010,AITD v3.1,AITD-00075,属性,Attribute,Attribute,Свойство/Атрибут,Қасиет/Атрибут,规范化英文精确匹配,四语已对齐（ISSAI）
+T0011,AITD v3.1,AITD-00081,自编码器,Autoencoder,Autoencoder,Автокодировщик,Автокодтаушы,规范化英文精确匹配,四语已对齐（ISSAI）
+T0012,AITD v3.1,AITD-00100,袋装,Bagging,Bagging,Бэггинг,Бэггинг,规范化英文精确匹配,四语已对齐（ISSAI）
+T0013,AITD v3.1,AITD-00102,带通滤波器,Bandpass Filter,Bandpass Filter,Полосовой Фильтр,Тілме Сүзгі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0014,AITD v3.1,AITD-00110,批量,Batch,Batch,Батч/Пакет,Батч/Пакет,规范化英文精确匹配,四语已对齐（ISSAI）
+T0015,AITD v3.1,AITD-00113,批量规范化,Batch Normalization,Batch Normalization,Нормализация Батча,Батчті Нормалау,规范化英文精确匹配,四语已对齐（ISSAI）
+T0016,AITD v3.1,AITD-00114,批量大小,Batch Size,Batch Size,Размер Партии,Партия Өлшемі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0017,AITD v3.1,AITD-00133,束搜索,Beam Search,Beam Search,Поиск Балки,Арқалық іздеу,规范化英文精确匹配,四语已对齐（ISSAI）
+T0018,AITD v3.1,AITD-00147,偏差/偏置,Bias,Bias,Предвзятость,Алдыналушылық,规范化英文精确匹配,四语已对齐（ISSAI）
+T0019,AITD v3.1,AITD-00166,比特,Bit,Bit,Бит,Бит,规范化英文精确匹配,四语已对齐（ISSAI）
+T0020,AITD v3.1,AITD-00175,Boosting（一种模型训练加速方式）,Boosting,Boosting,Бустинг (Увеличивание),Бустинг,规范化英文精确匹配,四语已对齐（ISSAI）
+T0021,AITD v3.1,AITD-00179,自助法/自举法,Bootstrapping,Bootstrapping,Бутстрепинг,Бутстрепинг,规范化英文精确匹配,四语已对齐（ISSAI）
+T0022,AITD v3.1,AITD-00190,微积分,Calculus,Calculus,"Исчисление, Математический Анализ",Математикалық Анализ,规范化英文精确匹配,四语已对齐（ISSAI）
+T0023,AITD v3.1,AITD-00206,中心极限定理,Central Limit Theorem,Central Limit Theorem,Центральная Предельная Теорема,Орталық Шектік Теорема,规范化英文精确匹配,四语已对齐（ISSAI）
+T0024,AITD v3.1,AITD-00207,链式法则,Chain Rule,Chain Rule,Цепное Правило/Дифференцирование Сложной Функции,Күрделі Функцияны Дифференциалдау,规范化英文精确匹配,四语已对齐（ISSAI）
+T0025,AITD v3.1,AITD-00208,通道,Channel,Channel,Канал,Арна,规范化英文精确匹配,四语已对齐（ISSAI）
+T0026,AITD v3.1,AITD-00213,街区距离,City Block Distance,City Block Distance,Расстояние Городских Кварталов/Расстояние Ситиблок/Расстояние Манхэттен/Расстояние Таксикаб,Ситиблок Қашықтығы (Манхэттен Немесе Таксикаб Қашықтығы Деп Те Аталады),规范化英文精确匹配,四语已对齐（ISSAI）
+T0027,AITD v3.1,AITD-00214,类别,Class,Class,Класс,Класс,规范化英文精确匹配,四语已对齐（ISSAI）
+T0028,AITD v3.1,AITD-00215,类标记,Class Label,Class label,Метка Класса,Класс Белгісі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0029,AITD v3.1,AITD-00218,分类,Classification,Classification,Классификация,Жіктеу,规范化英文精确匹配,四语已对齐（ISSAI）
+T0030,AITD v3.1,AITD-00231,聚类,Clustering,Clustering,Кластеризация,Кластерлеу,规范化英文精确匹配,四语已对齐（ISSAI）
+T0031,AITD v3.1,AITD-00237,编码,Code,Code,Код,Код,规范化英文精确匹配,四语已对齐（ISSAI）
+T0032,AITD v3.1,AITD-00246,组合优化,Combinatorial Optimization,Combinatorial Optimization,Комбинаторная Оптимизация,Комбинаторлық Оңтайландыру,规范化英文精确匹配,四语已对齐（ISSAI）
+T0033,AITD v3.1,AITD-00263,计算语言学,Computational Linguistics,Computational Linguistics,Компьютерная Лингвистика,Компьютер Лингвистикасы?,规范化英文精确匹配,四语已对齐（ISSAI）
+T0034,AITD v3.1,AITD-00264,计算机视觉,Computer Vision,Computer Vision,Компьютерное Зрение,Компьютерлік Көру,规范化英文精确匹配,四语已对齐（ISSAI）
+T0035,AITD v3.1,AITD-00272,条件独立,Conditional Independence,Conditional Independence,Условная Независимость,Шартты Тәуелсіздік,规范化英文精确匹配,四语已对齐（ISSAI）
+T0036,AITD v3.1,AITD-00285,混淆矩阵,Confusion Matrix,Confusion Matrix,Матрица Ошибок,Қателер Матрицасы,规范化英文精确匹配,四语已对齐（ISSAI）
+T0037,AITD v3.1,AITD-00318,凸优化,Convex Optimization,Convex Optimization,Выпуклая Оптимизация,Дөңес Оңтайландыру,规范化英文精确匹配,四语已对齐（ISSAI）
+T0038,AITD v3.1,AITD-00322,卷积,Convolution,Convolution,Свертка,Үйірткі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0039,AITD v3.1,AITD-00327,卷积神经网络,Convolutional Neural Network,Convolutional Neural Network,Сверточная Нейронная Сеть,Конволюциялық Нейрондық Желі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0040,AITD v3.1,AITD-00333,相关系数,Correlation,Correlation,Корреляция,Корреляция,规范化英文精确匹配,四语已对齐（ISSAI）
+T0041,AITD v3.1,AITD-00340,代价函数,Cost Function,Cost Function,Целевая Функция,Мақсаттық Функция,规范化英文精确匹配,四语已对齐（ISSAI）
+T0042,AITD v3.1,AITD-00343,协方差,Covariance,Covariance,Ковариация,Ковариация,规范化英文精确匹配,四语已对齐（ISSAI）
+T0043,AITD v3.1,AITD-00344,协方差矩阵,Covariance Matrix,Covariance Matrix,Ковариационная Матрица,Ковариациялық Матрица,规范化英文精确匹配,四语已对齐（ISSAI）
+T0044,AITD v3.1,AITD-00355,交叉熵,Cross Entropy,Cross Entropy,Перекрестная Энтропия,Тоғыспалы Энтропия,规范化英文精确匹配,四语已对齐（ISSAI）
+T0045,AITD v3.1,AITD-00356,交叉验证,Cross Validation,Cross Validation,Перекрестная Проверка,Айқас Тексеру / Кросс-Валидация,规范化英文精确匹配,四语已对齐（ISSAI）
+T0046,AITD v3.1,AITD-00362,维数灾难,Curse of Dimensionality,Curse of Dimensionality,Проклятие Размерности,Өлшемдік Қарғыс,规范化英文精确匹配,四语已对齐（ISSAI）
+T0047,AITD v3.1,AITD-00367,控制论,Cybernetics,Cybernetics,Кибернетика,Кибернетика,规范化英文精确匹配,四语已对齐（ISSAI）
+T0048,AITD v3.1,AITD-00372,数据增强,Data Augmentation,Data Augmentation,Наращивание Данных,Деректерді Толықтыру,规范化英文精确匹配,四语已对齐（ISSAI）
+T0049,AITD v3.1,AITD-00376,数据挖掘,Data Mining,Data Mining,Добыча Данных,Деректер Өндіру,规范化英文精确匹配,四语已对齐（ISSAI）
+T0050,AITD v3.1,AITD-00385,决策边界,Decision Boundary,Decision Boundary,Граница Приниятия Решения,Шешім Шекарасы,规范化英文精确匹配,四语已对齐（ISSAI）
+T0051,AITD v3.1,AITD-00389,决策树,Decision Tree,Decision tree,Дерево Решений,Шешімдер Ағашы,规范化英文精确匹配,四语已对齐（ISSAI）
+T0052,AITD v3.1,AITD-00402,深度学习,Deep Learning,Deep Learning,Глубокое Обучение,Терең Оқыту,规范化英文精确匹配,四语已对齐（ISSAI）
+T0053,AITD v3.1,AITD-00423,导数,Derivative,Derivative,Производный,Туынды,规范化英文精确匹配,四语已对齐（ISSAI）
+T0054,AITD v3.1,AITD-00436,字典,Dictionary,Dictionary,Словарь,Сөздік,规范化英文精确匹配,四语已对齐（ISSAI）
+T0055,AITD v3.1,AITD-00441,微分方程,Differential Equation,Differential Equation,Дифференциальное Уравнение,Дифференциалдық Теңдеу,规范化英文精确匹配,四语已对齐（ISSAI）
+T0056,AITD v3.1,AITD-00444,维度,Dimension,Dimension,Размерность,Өлшем,规范化英文精确匹配,四语已对齐（ISSAI）
+T0057,AITD v3.1,AITD-00486,点积,Dot Product,Dot Product,Скалярное Умножение,Элемент Бойынша Көбейту / Скаляр Көбейтінді,规范化英文精确匹配,四语已对齐（ISSAI）
+T0058,AITD v3.1,AITD-00502,动态规划,Dynamic Programming,Dynamic Programming,Динамичное Программирование,Динамикалық Программалау/Динамикалық Бағдарламалау,规范化英文精确匹配,四语已对齐（ISSAI）
+T0059,AITD v3.1,AITD-00506,早停,Early Stopping,Early Stopping,Ранняя Остановка,Ерте Тоқтау,规范化英文精确匹配,四语已对齐（ISSAI）
+T0060,AITD v3.1,AITD-00548,轮,Epoch,Epoch,Эпоха Обучения,Оқу Кезеңі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0061,AITD v3.1,AITD-00550,等式约束,Equality Constraint,Equality Constraint,Ограничение В Виде Равенства,Теңдік Түріндегі Шектеулік,规范化英文精确匹配,四语已对齐（ISSAI）
+T0062,AITD v3.1,AITD-00581,期望极大算法,Expectation Maximization Algorithm,Expectation Maximization Algorithm,Алгоритм Максимизации Ожидания,Болжамды Максимизациялау Алгоритмі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0063,AITD v3.1,AITD-00592,专家系统,Expert System,Expert System,Экспертная Система,Сараптау Жүйесі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0064,AITD v3.1,AITD-00598,利用,Exploitation,Exploitation,Эксплуатация,Қолдану/Пайдалану,规范化英文精确匹配,四语已对齐（ISSAI）
+T0065,AITD v3.1,AITD-00599,探索,Exploration,Exploration,Исследование,Зерттеу,规范化英文精确匹配,四语已对齐（ISSAI）
+T0066,AITD v3.1,AITD-00613,因子分析,Factor Analysis,Factor Analysis,Факторный Анализ,Факторлық Талдау,规范化英文精确匹配,四语已对齐（ISSAI）
+T0067,AITD v3.1,AITD-00619,假负例,False Negative,False Negative,Ложноотрицательный,Жалған Теріс,规范化英文精确匹配,四语已对齐（ISSAI）
+T0068,AITD v3.1,AITD-00620,假正例,False Positive,False Positive,Ложноположительный,Жалған Оң,规范化英文精确匹配,四语已对齐（ISSAI）
+T0069,AITD v3.1,AITD-00633,特征选择,Feature Selection,Feature Selection,Отбор Признаков / Отбор Атрибутов,Белгілерді Іріктеу / Атрибуттарды Іріктеу,规范化英文精确匹配,四语已对齐（ISSAI）
+T0070,AITD v3.1,AITD-00642,少试学习,Few-Shot Learning,Few-shot learning,Пристрелочное Обучение,Аз Әрекетпен Үйрену,规范化英文精确匹配,四语已对齐（ISSAI）
+T0071,AITD v3.1,AITD-00647,微调,Fine-Tuning,Fine-tuning,Тонкая Настройка,Жұқа Орнату,规范化英文精确匹配,四语已对齐（ISSAI）
+T0072,AITD v3.1,AITD-00695,博弈论,Game Theory,Game Theory,Теория Игр,Ойындар Теориясы,规范化英文精确匹配,四语已对齐（ISSAI）
+T0073,AITD v3.1,AITD-00697,门,Gate,Gate,Ворота,Қақпасы,规范化英文精确匹配,四语已对齐（ISSAI）
+T0074,AITD v3.1,AITD-00742,生成器,Generator,Generator,Генератор,Генератор,规范化英文精确匹配,四语已对齐（ISSAI）
+T0075,AITD v3.1,AITD-00755,全局最小,Global Minimum,Global Minimum,Глобальный Минимум,Глобалды Минимум,规范化英文精确匹配,四语已对齐（ISSAI）
+T0076,AITD v3.1,AITD-00757,梯度,Gradient,Gradient,Градиент,Градиент,规范化英文精确匹配,四语已对齐（ISSAI）
+T0077,AITD v3.1,AITD-00763,梯度下降,Gradient Descent,Gradient Descent,Градиентный Спуск,Градиенттік Төмендеу,规范化英文精确匹配,四语已对齐（ISSAI）
+T0078,AITD v3.1,AITD-00777,图论,Graph Theory,Graph Theory,Теория Графов,Графтар Теориясы,规范化英文精确匹配,四语已对齐（ISSAI）
+T0079,AITD v3.1,AITD-00785,贪心搜索,Greedy Search,Greedy Search,Жадный Поиск,Аш Іздеу,规范化英文精确匹配,四语已对齐（ISSAI）
+T0080,AITD v3.1,AITD-00790,真实值,Ground Truth,Ground Truth,Истина,Шындық,规范化英文精确匹配,四语已对齐（ISSAI）
+T0081,AITD v3.1,AITD-00816,隐藏层,Hidden Layer,Hidden Layer,Скрытый Слой,Жасырын Қабат,规范化英文精确匹配,四语已对齐（ISSAI）
+T0082,AITD v3.1,AITD-00817,隐马尔可夫模型,Hidden Markov Model,Hidden Markov Model,Скрытая Марковская Модель,Жасырын Марков Моделі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0083,AITD v3.1,AITD-00821,层次聚类,Hierarchical Clustering,Hierarchical Clustering,Иерархическая Кластеризация,Иерархиялық Кластерлеу,规范化英文精确匹配,四语已对齐（ISSAI）
+T0084,AITD v3.1,AITD-00825,爬山,Hill Climbing,Hill Climbing,Поиск Восхождением К Вершине,Шыңға Шығу,规范化英文精确匹配,四语已对齐（ISSAI）
+T0085,AITD v3.1,AITD-00834,超参数,Hyperparameter,Hyperparameter,Гиперпараметр,Гиперпараметр,规范化英文精确匹配,四语已对齐（ISSAI）
+T0086,AITD v3.1,AITD-00836,超平面,Hyperplane,Hyperplane,Гиперплоскость,Гипержазықтық,规范化英文精确匹配,四语已对齐（ISSAI）
+T0087,AITD v3.1,AITD-00837,假设,Hypothesis,Hypothesis,Гипотеза,Гипотеза,规范化英文精确匹配,四语已对齐（ISSAI）
+T0088,AITD v3.1,AITD-00838,假设空间,Hypothesis Space,Hypothesis Space,Пространство Гипотез,Гипотеза Кеңістігі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0089,AITD v3.1,AITD-00848,图像,Image,Image,Изображение,Кескін,规范化英文精确匹配,四语已对齐（ISSAI）
+T0090,AITD v3.1,AITD-00849,图像还原,Image Restoration,Image Restoration,Восстановление Изображения,Суретті Қалпына Келтіру,规范化英文精确匹配,四语已对齐（ISSAI）
+T0091,AITD v3.1,AITD-00852,不完美信息,Imperfect Information,Imperfect Information,Неполная Информация/Несовершенная Информация,Толық Емес Ақпарат/ Жетілмеген Ақпарат,规范化英文精确匹配,四语已对齐（ISSAI）
+T0092,AITD v3.1,AITD-00858,增量学习,Incremental Learning,Incremental Learning,Инкрементное Обучение,Үдемелі/Инкременнті Оқыту,规范化英文精确匹配,四语已对齐（ISSAI）
+T0093,AITD v3.1,AITD-00868,归纳,Induction,Induction,Индукция,Индукция,规范化英文精确匹配,四语已对齐（ISSAI）
+T0094,AITD v3.1,AITD-00873,不等式约束,Inequality Constraint,Inequality Constraint,Ограничение В Виде Неравенства,Теңсіздік Түріндегі Шектеулік,规范化英文精确匹配,四语已对齐（ISSAI）
+T0095,AITD v3.1,AITD-00874,推断,Inference,Inference,Вывод,Қорытынды,规范化英文精确匹配,四语已对齐（ISSAI）
+T0096,AITD v3.1,AITD-00878,信息熵,Information Entropy,Information Entropy,Информационная Энтропия,Ақпараттық Энтропия,规范化英文精确匹配,四语已对齐（ISSAI）
+T0097,AITD v3.1,AITD-00881,信息检索,Information Retrieval,Information Retrieval,Извлечение Информации,Ақпаратты Алу,规范化英文精确匹配,四语已对齐（ISSAI）
+T0098,AITD v3.1,AITD-00884,输入,Input,Input,Ввод/Вводные Данные,Кіру Деректері,规范化英文精确匹配,四语已对齐（ISSAI）
+T0099,AITD v3.1,AITD-00893,整数规划,Integer Programming,Integer Programming,Целочисленное Программирование,Бүтін Сан Программалау,规范化英文精确匹配,四语已对齐（ISSAI）
+T0100,AITD v3.1,AITD-00916,迭代,Iteration,Iteration,Итерация,Итерация,规范化英文精确匹配,四语已对齐（ISSAI）
+T0101,AITD v3.1,AITD-00923,联合概率分布,Joint Probability Distribution,Joint Probability Distribution,Совместное Распределение Вероятности,Бірлескен Ықтималдылық Үлестірімі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0102,AITD v3.1,AITD-00934,核函数,Kernel Function,Kernel Function,Ядерная Функция / Кернфункция,Кернфункция,规范化英文精确匹配,四语已对齐（ISSAI）
+T0103,AITD v3.1,AITD-00939,核技巧,Kernel Trick,Kernel Trick,Ядерный Трюк,Ядролық Трюгі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0104,AITD v3.1,AITD-00954,标签/标记,Label,Label,Метка,Белгі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0105,AITD v3.1,AITD-00975,潜变量/隐变量,Latent Variable,Latent Variable,Скрытая Переменная,Жасырын Айнымалы,规范化英文精确匹配,四语已对齐（ISSAI）
+T0106,AITD v3.1,AITD-00984,懒惰学习,Lazy Learning,Lazy Learning,Ленивое Обучение,Жалқау Оқу/Жалқау Үйрену,规范化英文精确匹配,四语已对齐（ISSAI）
+T0107,AITD v3.1,AITD-00985,叶结点,Leaf Node,Leaf Node,Листовой Узел,Жапырақ Түйіні?,规范化英文精确匹配,四语已对齐（ISSAI）
+T0108,AITD v3.1,AITD-00995,学习率,Learning Rate,Learning Rate,Скорость Обучения,Оқу Деңгейі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0109,AITD v3.1,AITD-01026,线性回归,Linear Regression,Linear Regression,Линейная Регрессия,Сызықтық Регрессия,规范化英文精确匹配,四语已对齐（ISSAI）
+T0110,AITD v3.1,AITD-01056,局部极大点,Local Maximum,Local Maximum,Локальный Максимум,Локалды Максимум,规范化英文精确匹配,四语已对齐（ISSAI）
+T0111,AITD v3.1,AITD-01059,局部极小,Local Minimum,Local Minimum,Локальный Минимум,Локалды Минимум,规范化英文精确匹配,四语已对齐（ISSAI）
+T0112,AITD v3.1,AITD-01073,对数几率回归,Logistic Regression,Logistic Regression,Логистическая Регрессия,Логистикалық Регрессия,规范化英文精确匹配,四语已对齐（ISSAI）
+T0113,AITD v3.1,AITD-01080,长期记忆,Long-Term Memory,Long-Term Memory,Долгосрочная Память,Ұзақ Мерзімді Есте Сақтау,规范化英文精确匹配,四语已对齐（ISSAI）
+T0114,AITD v3.1,AITD-01088,机器学习,Machine Learning,Machine Learning,Машинное Обучение,Машиналық Оқыту,规范化英文精确匹配,四语已对齐（ISSAI）
+T0115,AITD v3.1,AITD-01089,机器翻译,Machine Translation,Machine Translation,Машинный Перевод,Машиналық Аударма,规范化英文精确匹配,四语已对齐（ISSAI）
+T0116,AITD v3.1,AITD-01103,间隔,Margin,Margin,Граница,Шекара,规范化英文精确匹配,四语已对齐（ISSAI）
+T0117,AITD v3.1,AITD-01122,矩阵,Matrix,Matrix,Матрица,Матрица,规范化英文精确匹配,四语已对齐（ISSAI）
+T0118,AITD v3.1,AITD-01126,逆矩阵,Matrix Inversion,Matrix Inversion,Обратная Матрица,Кері Матрица,规范化英文精确匹配,四语已对齐（ISSAI）
+T0119,AITD v3.1,AITD-01139,极大似然估计,Maximum Likelihood Estimation,Maximum Likelihood Estimation,Оценка Максимального Правдоподобия,Ең Жоғары Шындықты Бағалау,规范化英文精确匹配,四语已对齐（ISSAI）
+T0120,AITD v3.1,AITD-01147,均值,Mean,Mean,Среднее Значение,Орта Мән,规范化英文精确匹配,四语已对齐（ISSAI）
+T0121,AITD v3.1,AITD-01160,中位数,Median,Median,Медиана,Медиана,规范化英文精确匹配,四语已对齐（ISSAI）
+T0122,AITD v3.1,AITD-01161,记忆,Memory,Memory,Память,Жад,规范化英文精确匹配,四语已对齐（ISSAI）
+T0123,AITD v3.1,AITD-01209,模型预测控制,Model Predictive Control,Model Predictive Control,Управление С Прогнозирующими Моделями,Болжамды Моделдермен Басқару,规范化英文精确匹配,四语已对齐（ISSAI）
+T0124,AITD v3.1,AITD-01210,模型选择,Model Selection,Model Selection,Выбор Модели,Модельді Таңдау,规范化英文精确匹配,四语已对齐（ISSAI）
+T0125,AITD v3.1,AITD-01224,摩尔定律,Moore's Law,Moore's Law,Закон Мура,Мур Заңы,规范化英文精确匹配,四语已对齐（ISSAI）
+T0126,AITD v3.1,AITD-01231,多分类,Multi-Class Classification,Multi-Class Classification,Многоклассовая Классификация,Көп Класты Жіктеу,规范化英文精确匹配,四语已对齐（ISSAI）
+T0127,AITD v3.1,AITD-01264,朴素贝叶斯,Naive Bayes,Naive Bayes,Наивный Байесовский Классификатор,Аңғырт Байес Жіктегіш,规范化英文精确匹配,四语已对齐（ISSAI）
+T0128,AITD v3.1,AITD-01304,神经元,Neuron,Neuron,Нейрон,Нейрон,规范化英文精确匹配,四语已对齐（ISSAI）
+T0129,AITD v3.1,AITD-01308,噪声,Noise,Noise,Шум,"Шу, Шуыл",规范化英文精确匹配,四语已对齐（ISSAI）
+T0130,AITD v3.1,AITD-01336,正态分布,Normal Distribution,Normal Distribution,Нормальное Распределение,Қалыпты Бөлу,规范化英文精确匹配,四语已对齐（ISSAI）
+T0131,AITD v3.1,AITD-01338,规范化,Normalization,Normalization,Нормализация,Қалыпқа Келтіру,规范化英文精确匹配,四语已对齐（ISSAI）
+T0132,AITD v3.1,AITD-01352,对象识别,Object Recognition,Object Recognition,Распознавание Объекта,Объектіні Тану,规范化英文精确匹配,四语已对齐（ISSAI）
+T0133,AITD v3.1,AITD-01354,目标函数,Objective Function,Objective Function,Целевая Функция,Нысаналық Функция,规范化英文精确匹配,四语已对齐（ISSAI）
+T0134,AITD v3.1,AITD-01358,奥卡姆剃刀,Occam's Razor,Occam's Razor,Бритва Оккама,Оккама Ұстарасы,规范化英文精确匹配,四语已对齐（ISSAI）
+T0135,AITD v3.1,AITD-01374,最优化,Optimization,Optimization,Оптимизация,Оңтайландыру,规范化英文精确匹配,四语已对齐（ISSAI）
+T0136,AITD v3.1,AITD-01386,异常点,Outlier,Outlier,Выброс,Шығарынды,规范化英文精确匹配,四语已对齐（ISSAI）
+T0137,AITD v3.1,AITD-01387,输出,Output,Output,Вывод/Выходные Данные,Шығу Деректері,规范化英文精确匹配,四语已对齐（ISSAI）
+T0138,AITD v3.1,AITD-01395,过拟合,Overfitting,Overfitting,Переобучение,Қайта Оқыту,规范化英文精确匹配,四语已对齐（ISSAI）
+T0139,AITD v3.1,AITD-01407,参数,Parameter,Parameter,Параметр,Параметр,规范化英文精确匹配,四语已对齐（ISSAI）
+T0140,AITD v3.1,AITD-01421,粒子群优化算法,Particle Swarm Optimization,Particle Swarm Optimization,Метод Роя Частиц (Мрч),Бөлшектер Рой Әдісі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0141,AITD v3.1,AITD-01426,模式识别,Pattern Recognition,Pattern Recognition,Распознавание Образов,Бейнелерді Тану,规范化英文精确匹配,四语已对齐（ISSAI）
+T0142,AITD v3.1,AITD-01482,查准率/准确率,Precision,Precision,Четкость,Дәлдік,规范化英文精确匹配,四语已对齐（ISSAI）
+T0143,AITD v3.1,AITD-01508,概率密度函数,Probability Density Function,Probability Density Function,Функция Плотности Вероятности,Ықтималдық Тығыздығы Функциясы,规范化英文精确匹配,四语已对齐（ISSAI）
+T0144,AITD v3.1,AITD-01522,剪枝,Pruning,Pruning,Обрезка,Кесу,规范化英文精确匹配,四语已对齐（ISSAI）
+T0145,AITD v3.1,AITD-01529,二次规划,Quadratic Programming,Quadratic Programming,Квадратичное Прграммирование,Квадраттық Бағдармалау/Квадраттық Программалау,规范化英文精确匹配,四语已对齐（ISSAI）
+T0146,AITD v3.1,AITD-01533,量子计算,Quantum Computing,Quantum Computing,Квантовое Вычисление,Кванттық Есептеу,规范化英文精确匹配,四语已对齐（ISSAI）
+T0147,AITD v3.1,AITD-01538,查询,Query,Query,Запрос,Сұрау,规范化英文精确匹配,四语已对齐（ISSAI）
+T0148,AITD v3.1,AITD-01541,径向基函数,Radial Basis Function,Radial Basis Function,Радиально-Базисная Функция,Радиалды Базистік Функция,规范化英文精确匹配,四语已对齐（ISSAI）
+T0149,AITD v3.1,AITD-01542,随机访问存储,Random Access Memory,Random Access Memory,Оперативная Память,Жедел Жад,规范化英文精确匹配,四语已对齐（ISSAI）
+T0150,AITD v3.1,AITD-01545,随机森林,Random Forest,Random Forest,Алгоритм Случайного Леса,Кездейсоқ Орман Алгоритмы,规范化英文精确匹配,四语已对齐（ISSAI）
+T0151,AITD v3.1,AITD-01550,随机变量,Random Variable,Random Variable,Случайная Величина,Кездейсоқ Шама,规范化英文精确匹配,四语已对齐（ISSAI）
+T0152,AITD v3.1,AITD-01551,随机游走,Random Walk,Random Walk,Случайное Блуждание,Кездейсоқ/Жоспарсыз Серуен?,规范化英文精确匹配,四语已对齐（ISSAI）
+T0153,AITD v3.1,AITD-01552,值域,Range,Range,Диапазон,Диапазон,规范化英文精确匹配,四语已对齐（ISSAI）
+T0154,AITD v3.1,AITD-01561,查全率/召回率,Recall,Recall,Полнота,Толықтық,规范化英文精确匹配,四语已对齐（ISSAI）
+T0155,AITD v3.1,AITD-01585,回归,Regression,Regression,Регрессия,Регрессия,规范化英文精确匹配,四语已对齐（ISSAI）
+T0156,AITD v3.1,AITD-01588,强化学习,Reinforcement Learning,Reinforcement Learning,Обучение С Подкреплением,Негіздеп Оқыту,规范化英文精确匹配,四语已对齐（ISSAI）
+T0157,AITD v3.1,AITD-01598,表示学习,Representation Learning,Representation Learning,Обучение Признакам / Обучение Представлениям,Белгілерге Оқыту / Ұсыныстарға Оқыту,规范化英文精确匹配,四语已对齐（ISSAI）
+T0158,AITD v3.1,AITD-01619,奖励,Reward,Reward,Вознаграждения,Марапат,规范化英文精确匹配,四语已对齐（ISSAI）
+T0159,AITD v3.1,AITD-01620,奖励函数,Reward Function,Reward Function,Функция Вознаграждения,Марапаттау Функциясы,规范化英文精确匹配,四语已对齐（ISSAI）
+T0160,AITD v3.1,AITD-01627,稳健性,Robustness,Robustness,Прочность,Беріктік/Робастылық,规范化英文精确匹配,四语已对齐（ISSAI）
+T0161,AITD v3.1,AITD-01640,样本,Sample,Sample,Образец,Үлгі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0162,AITD v3.1,AITD-01680,半监督学习,Semi-Supervised Learning,Semi-Supervised Learning,Полуавтоматическое Обучение / Частичное Обучение,Жартылай Автоматты Оқыту / Ішінара Оқыту,规范化英文精确匹配,四语已对齐（ISSAI）
+T0163,AITD v3.1,AITD-01682,情感分析,Sentiment Analysis,Sentiment Analysis,Анализ Тональности Текста,Мәтіннің Үнсіздігін Талдау,规范化英文精确匹配,四语已对齐（ISSAI）
+T0164,AITD v3.1,AITD-01703,短期记忆,Short-Term Memory,Short-Term Memory,Кратковременная Память,Қысқа Мерзімді Жад,规范化英文精确匹配,四语已对齐（ISSAI）
+T0165,AITD v3.1,AITD-01710,Sigmoid函数,Sigmoid Function,Sigmoid Function,Сигмоида,Сигмоида,规范化英文精确匹配,四语已对齐（ISSAI）
+T0166,AITD v3.1,AITD-01719,模拟退火,Simulated Annealing,Simulated Annealing,Алгоритм Симуляции Отжига,Күйдіруді Cимуляциялау Алгоритмі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0167,AITD v3.1,AITD-01734,平滑,Smoothing,Smoothing,Сглаживание,Тегістеу,规范化英文精确匹配,四语已对齐（ISSAI）
+T0168,AITD v3.1,AITD-01743,Softmax函数/软最大化函数,Softmax Function,Softmax Function,Функция Softmax,Softmax Функциясы,规范化英文精确匹配,四语已对齐（ISSAI）
+T0169,AITD v3.1,AITD-01763,语音识别,Speech Recognition,Speech Recognition,Распознавание Речи,Сөйлеуді Танымдау,规范化英文精确匹配,四语已对齐（ISSAI）
+T0170,AITD v3.1,AITD-01771,方阵,Square,Square,Квадрат,"Шаршы, Квадрат",规范化英文精确匹配,四语已对齐（ISSAI）
+T0171,AITD v3.1,AITD-01783,标准差,Standard Deviation,Standard Deviation,Стандартное Отклонение,Стандарт Ауытқу,规范化英文精确匹配,四语已对齐（ISSAI）
+T0172,AITD v3.1,AITD-01805,统计量,Statistics,Statistics,Статистика,Статистика,规范化英文精确匹配,四语已对齐（ISSAI）
+T0173,AITD v3.1,AITD-01822,分层采样,Stratified Sampling,Stratified Sampling,Стратифицированный Отбор,Стратификацияланған Іріктеу,规范化英文精确匹配,四语已对齐（ISSAI）
+T0174,AITD v3.1,AITD-01852,监督学习,Supervised Learning,Supervised Learning,Обучение С Учителем,Бақылаумен Оқыту,规范化英文精确匹配,四语已对齐（ISSAI）
+T0175,AITD v3.1,AITD-01889,张量,Tensor,Tensor,Тензор,Тензор,规范化英文精确匹配,四语已对齐（ISSAI）
+T0176,AITD v3.1,AITD-01892,终止状态,Terminal State,Terminal State,Терминальное Состояние,Терминалдық Жағдайы,规范化英文精确匹配,四语已对齐（ISSAI）
+T0177,AITD v3.1,AITD-01908,词元,Token,Token,Токен,Токен,规范化英文精确匹配,四语已对齐（ISSAI）
+T0178,AITD v3.1,AITD-01924,训练,Training,Training,Обучение,"Оқыту, Үйрету",规范化英文精确匹配,四语已对齐（ISSAI）
+T0179,AITD v3.1,AITD-01935,迁移学习,Transfer Learning,Transfer Learning,Передача Модели Обучения,Оқуды Тарату,规范化英文精确匹配,四语已对齐（ISSAI）
+T0180,AITD v3.1,AITD-01937,Transformer,Transformer,Transformer,Трансформатор,Трансформатор,规范化英文精确匹配,四语已对齐（ISSAI）
+T0181,AITD v3.1,AITD-01941,状态转移矩阵,Transition Matrix,Transition Matrix,Матрица Перехода,Өту Матрицасы,规范化英文精确匹配,四语已对齐（ISSAI）
+T0182,AITD v3.1,AITD-01954,真负例,True Negative,True Negative,Истинно Отрицательный,Шын Теріс,规范化英文精确匹配,四语已对齐（ISSAI）
+T0183,AITD v3.1,AITD-01955,真正例,True Positive,True Positive,Истинно Положительный,Шын Оң,规范化英文精确匹配,四语已对齐（ISSAI）
+T0184,AITD v3.1,AITD-01960,图灵机,Turing Machine,Turing Machine,Машина Тьюринга,Тьюринг Машинасы,规范化英文精确匹配,四语已对齐（ISSAI）
+T0185,AITD v3.1,AITD-02012,无监督学习,Unsupervised Learning,Unsupervised learning,Обучение Без Учителя,Бақылаусыз Оқыту,规范化英文精确匹配,四语已对齐（ISSAI）
+T0186,AITD v3.1,AITD-02030,方差,Variance,Variance,Дисперсия,Ауытқу,规范化英文精确匹配,四语已对齐（ISSAI）
+T0187,AITD v3.1,AITD-02041,向量,Vector,Vector,Вектор,Вектор,规范化英文精确匹配,四语已对齐（ISSAI）
+T0188,AITD v3.1,AITD-02051,词表,Vocabulary,Vocabulary,Словарь,Сөздік,规范化英文精确匹配,四语已对齐（ISSAI）
+T0189,AITD v3.1,AITD-02063,权重,Weight,Weight,Вес,Салмақ,规范化英文精确匹配,四语已对齐（ISSAI）
+T0190,AITD v3.1,AITD-02091,零试学习,Zero-Shot Learning,Zero-Shot Learning,Обучение Нулевой Попыткой,Әрекетсіз Үйрену,规范化英文精确匹配,四语已对齐（ISSAI）
+T0191,AITD v3.1,AITD-02115,平衡精度,Balanced Accuracy,Balanced Accuracy,Сбалансированная Точность,Теңдестірілген Болжам Дәлдігі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0192,AITD v3.1,AITD-02159,计算机科学,Computer Science,Computer Science,Компьютерные Науки,Компьютерлік Білімдер,规范化英文精确匹配,四语已对齐（ISSAI）
+T0193,AITD v3.1,AITD-02205,降维,Dimensionality Reduction,Dimensionality Reduction,Снижение Размерности,Өлшемділікті Төмендету,规范化英文精确匹配,四语已对齐（ISSAI）
+T0194,AITD v3.1,AITD-02254,模糊逻辑,Fuzzy Logic,Fuzzy Logic,Нечеткая Логика,Бұлдыр Логика,规范化英文精确匹配,四语已对齐（ISSAI）
+T0195,AITD v3.1,AITD-02257,无用数据入、无用数据出,"Garbage In, Garbage Out","Garbage In, Garbage Out","Мусор На Входе, Мусор На Выходе (Gigo)","Кіре Берістегі Қоқыс, Шыға Берістегі Қоқыс (Gigo)",规范化英文精确匹配,四语已对齐（ISSAI）
+T0196,AITD v3.1,AITD-02323,K-均值,K-Means,K-Means,Метод K-Средних,K-Орташа Әдісі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0197,AITD v3.1,AITD-02337,拉索回归,Lasso Regression,Lasso Regression,Регрессия Лассо,Лассо Регрессиясы,规范化英文精确匹配,四语已对齐（ISSAI）
+T0198,AITD v3.1,AITD-02342,线性的,Linear,Linear,Линейный,Сызықтық,规范化英文精确匹配,四语已对齐（ISSAI）
+T0199,AITD v3.1,AITD-02396,多变量回归,Multivariate Regression,Multivariate Regression,Многомерная Регрессия,Көп Өлшемді Регрессия,规范化英文精确匹配,四语已对齐（ISSAI）
+T0200,AITD v3.1,AITD-02436,缩放,Scaling,Scaling,Масштабирование,Масштабтау,规范化英文精确匹配,四语已对齐（ISSAI）
+T0201,AITD v3.1,AITD-02437,仿真,Simulation,Simulation,Моделирование/Симуляция/Симулирование,Модельдеу/Симуляциялау,规范化英文精确匹配,四语已对齐（ISSAI）
+T0202,AITD v3.1,AITD-02440,版本控制,Version Control,Version Control,Система Управления Версиями,Нұсқаларды Басқару Жүйесі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0203,Google ML Glossary,accuracy,准确性,accuracy,Accuracy,Точность/Аккуратность,Болжам Дәлдігі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0204,Google ML Glossary,activation-function,激活函数,activation function,Activation Function,Функция Активации,Белсендіру/Активация Функциясы,规范化英文精确匹配,四语已对齐（ISSAI）
+T0205,Google ML Glossary,anomaly-detection,异常值检测,anomaly detection,Anomaly Detection,Выявление Аномалий / Обнаружение Выбросов,Аномалияларды Анықтау / Шығарындыларды Анықтау,规范化英文精确匹配,四语已对齐（ISSAI）
+T0206,Google ML Glossary,attention,Attention,attention,Attention,Внимание,Назар,规范化英文精确匹配,四语已对齐（ISSAI）
+T0207,Google ML Glossary,attribute,属性,attribute,Attribute,Свойство/Атрибут,Қасиет/Атрибут,规范化英文精确匹配,四语已对齐（ISSAI）
+T0208,Google ML Glossary,augmented-reality,增强现实,augmented reality,Augmented Reality,Дополненная Реальность,Толықтырылған Шындық/Шынайлық,规范化英文精确匹配,四语已对齐（ISSAI）
+T0209,Google ML Glossary,autoencoder,自动编码器,autoencoder,Autoencoder,Автокодировщик,Автокодтаушы,规范化英文精确匹配,四语已对齐（ISSAI）
+T0210,Google ML Glossary,backpropagation,反向传播,backpropagation,Backpropagation,Метод Обратного Распространения Ошибки,Артқы Аралық Әдісі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0211,Google ML Glossary,bagging,装袋,bagging,Bagging,Бэггинг,Бэггинг,规范化英文精确匹配,四语已对齐（ISSAI）
+T0212,Google ML Glossary,batch,批处理,batch,Batch,Батч/Пакет,Батч/Пакет,规范化英文精确匹配,四语已对齐（ISSAI）
+T0213,Google ML Glossary,batch-normalization,批次归一化,batch normalization,Batch Normalization,Нормализация Батча,Батчті Нормалау,规范化英文精确匹配,四语已对齐（ISSAI）
+T0214,Google ML Glossary,batch-size,批次大小,batch size,Batch Size,Размер Партии,Партия Өлшемі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0215,Google ML Glossary,black-box-model,黑盒模型,black box model,Black Box Model,Модель Черного Ящика,Қара Жәшік Моделі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0216,Google ML Glossary,boosting,增强学习,boosting,Boosting,Бустинг (Увеличивание),Бустинг,规范化英文精确匹配,四语已对齐（ISSAI）
+T0217,Google ML Glossary,centroid,形心,centroid,Centroid,Центроид/Барицентр,Центроид/Барицентр,规范化英文精确匹配,四语已对齐（ISSAI）
+T0218,Google ML Glossary,class,类别,class,Class,Класс,Класс,规范化英文精确匹配,四语已对齐（ISSAI）
+T0219,Google ML Glossary,clustering,聚类,clustering,Clustering,Кластеризация,Кластерлеу,规范化英文精确匹配,四语已对齐（ISSAI）
+T0220,Google ML Glossary,confusion-matrix,混淆矩阵,confusion matrix,Confusion Matrix,Матрица Ошибок,Қателер Матрицасы,规范化英文精确匹配,四语已对齐（ISSAI）
+T0221,Google ML Glossary,convex-function,凸函数,convex function,Convex Function,Выпуклая Функция,Дөңес Функция,规范化英文精确匹配,四语已对齐（ISSAI）
+T0222,Google ML Glossary,convex-optimization,凸优化,convex optimization,Convex Optimization,Выпуклая Оптимизация,Дөңес Оңтайландыру,规范化英文精确匹配,四语已对齐（ISSAI）
+T0223,Google ML Glossary,convolution,卷积,convolution,Convolution,Свертка,Үйірткі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0224,Google ML Glossary,convolutional-neural-network,卷积神经网络,convolutional neural network,Convolutional Neural Network,Сверточная Нейронная Сеть,Конволюциялық Нейрондық Желі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0225,Google ML Glossary,cumulative-distribution-function-cdf,累积分布函数 (CDF),cumulative distribution function (CDF),Cumulative Distribution Function (CDF),Кумулятивная Функция Распределения,Үлестіру Кумулятивті Функциясы (Cdf),规范化英文精确匹配,四语已对齐（ISSAI）
+T0226,Google ML Glossary,data-augmentation,数据增强,data augmentation,Data Augmentation,Наращивание Данных,Деректерді Толықтыру,规范化英文精确匹配,四语已对齐（ISSAI）
+T0227,Google ML Glossary,decision-boundary,决策边界,decision boundary,Decision Boundary,Граница Приниятия Решения,Шешім Шекарасы,规范化英文精确匹配,四语已对齐（ISSAI）
+T0228,Google ML Glossary,decision-tree,决策树,decision tree,Decision tree,Дерево Решений,Шешімдер Ағашы,规范化英文精确匹配,四语已对齐（ISSAI）
+T0229,Google ML Glossary,early-stopping,早停法,early stopping,Early Stopping,Ранняя Остановка,Ерте Тоқтау,规范化英文精确匹配,四语已对齐（ISSAI）
+T0230,Google ML Glossary,epoch,周期数,epoch,Epoch,Эпоха Обучения,Оқу Кезеңі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0231,Google ML Glossary,federated-learning,联合学习,federated learning,Federated Learning,Федеративное Обучение,Федеравтік Оқыту,规范化英文精确匹配,四语已对齐（ISSAI）
+T0232,Google ML Glossary,few-shot-learning,少量样本学习,few-shot learning,Few-shot learning,Пристрелочное Обучение,Аз Әрекетпен Үйрену,规范化英文精确匹配,四语已对齐（ISSAI）
+T0233,Google ML Glossary,fine-tuning,微调,fine-tuning,Fine-tuning,Тонкая Настройка,Жұқа Орнату,规范化英文精确匹配,四语已对齐（ISSAI）
+T0234,Google ML Glossary,generative-adversarial-network-gan,生成对抗网络 (GAN),generative adversarial network (GAN),Generative Adversarial Network (GAN),Генеративно-Состязательная Сеть (Gan),Генеративті-Бәсекелестік Желі (Gan),规范化英文精确匹配,四语已对齐（ISSAI）
+T0235,Google ML Glossary,generator,生成器,generator,Generator,Генератор,Генератор,规范化英文精确匹配,四语已对齐（ISSAI）
+T0236,Google ML Glossary,gradient,渐变色,gradient,Gradient,Градиент,Градиент,规范化英文精确匹配,四语已对齐（ISSAI）
+T0237,Google ML Glossary,gradient-descent,梯度下降法,gradient descent,Gradient Descent,Градиентный Спуск,Градиенттік Төмендеу,规范化英文精确匹配,四语已对齐（ISSAI）
+T0238,Google ML Glossary,ground-truth,标准答案,ground truth,Ground Truth,Истина,Шындық,规范化英文精确匹配,四语已对齐（ISSAI）
+T0239,Google ML Glossary,heuristic,启发法,heuristic,Heuristic,Эвристика,Эвристика,规范化英文精确匹配,四语已对齐（ISSAI）
+T0240,Google ML Glossary,hidden-layer,隐藏层,hidden layer,Hidden Layer,Скрытый Слой,Жасырын Қабат,规范化英文精确匹配,四语已对齐（ISSAI）
+T0241,Google ML Glossary,hierarchical-clustering,层次聚类,hierarchical clustering,Hierarchical Clustering,Иерархическая Кластеризация,Иерархиялық Кластерлеу,规范化英文精确匹配,四语已对齐（ISSAI）
+T0242,Google ML Glossary,hill-climbing,爬坡,hill climbing,Hill Climbing,Поиск Восхождением К Вершине,Шыңға Шығу,规范化英文精确匹配,四语已对齐（ISSAI）
+T0243,Google ML Glossary,hyperparameter,超参数,hyperparameter,Hyperparameter,Гиперпараметр,Гиперпараметр,规范化英文精确匹配,四语已对齐（ISSAI）
+T0244,Google ML Glossary,hyperplane,超平面,hyperplane,Hyperplane,Гиперплоскость,Гипержазықтық,规范化英文精确匹配,四语已对齐（ISSAI）
+T0245,Google ML Glossary,imputation,插补,imputation,Imputation,Условный Расчет,Шартты Есептеу,规范化英文精确匹配,四语已对齐（ISSAI）
+T0246,Google ML Glossary,inference,推理,inference,Inference,Вывод,Қорытынды,规范化英文精确匹配,四语已对齐（ISSAI）
+T0247,Google ML Glossary,iteration,迭代,iteration,Iteration,Итерация,Итерация,规范化英文精确匹配,四语已对齐（ISSAI）
+T0248,Google ML Glossary,k-means,k-means,k-means,K-Means,Метод K-Средних,K-Орташа Әдісі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0249,Google ML Glossary,label,标签,label,Label,Метка,Белгі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0250,Google ML Glossary,latency,延迟时间,latency,Latency,Задержка,Кідіріс,规范化英文精确匹配,四语已对齐（ISSAI）
+T0251,Google ML Glossary,learning-rate,学习速率,learning rate,Learning Rate,Скорость Обучения,Оқу Деңгейі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0252,Google ML Glossary,linear,线性,linear,Linear,Линейный,Сызықтық,规范化英文精确匹配,四语已对齐（ISSAI）
+T0253,Google ML Glossary,linear-regression,线性回归,linear regression,Linear Regression,Линейная Регрессия,Сызықтық Регрессия,规范化英文精确匹配,四语已对齐（ISSAI）
+T0254,Google ML Glossary,logistic-regression,逻辑回归,logistic regression,Logistic Regression,Логистическая Регрессия,Логистикалық Регрессия,规范化英文精确匹配,四语已对齐（ISSAI）
+T0255,Google ML Glossary,log-loss,对数损失函数,Log Loss,Log Loss,Логистическая Функция Ошибки,Қатенің Логистикалық Функциясы,规范化英文精确匹配,四语已对齐（ISSAI）
+T0256,Google ML Glossary,machine-learning,机器学习,machine learning,Machine Learning,Машинное Обучение,Машиналық Оқыту,规范化英文精确匹配,四语已对齐（ISSAI）
+T0257,Google ML Glossary,machine-translation,机器翻译,machine translation,Machine Translation,Машинный Перевод,Машиналық Аударма,规范化英文精确匹配,四语已对齐（ISSAI）
+T0258,Google ML Glossary,markov-decision-process-mdp,马尔可夫决策过程 (MDP),Markov decision process (MDP),Markov Decision Process (MDP),Марковский Процесс Принятия Решений,Марковтың Шешімдерін Қабылдау Процесі,规范化英文精确匹配,四语已对齐（ISSAI）
+T0259,Google ML Glossary,mesh,网格,mesh,Mesh,Ячейка,Ұяшық,规范化英文精确匹配,四语已对齐（ISSAI）
+T0260,Google ML Glossary,multi-class-classification,多类别分类,multi-class classification,Multi-Class Classification,Многоклассовая Классификация,Көп Класты Жіктеу,规范化英文精确匹配,四语已对齐（ISSAI）
+T0261,Google ML Glossary,neuron,神经元,neuron,Neuron,Нейрон,Нейрон,规范化英文精确匹配,四语已对齐（ISSAI）
+T0262,Google ML Glossary,noise,噪声,noise,Noise,Шум,"Шу, Шуыл",规范化英文精确匹配,四语已对齐（ISSAI）
+T0263,Google ML Glossary,normalization,归一化,normalization,Normalization,Нормализация,Қалыпқа Келтіру,规范化英文精确匹配,四语已对齐（ISSAI）
+T0264,Google ML Glossary,objective-function,目标函数,objective function,Objective Function,Целевая Функция,Нысаналық Функция,规范化英文精确匹配,四语已对齐（ISSAI）
+T0265,Google ML Glossary,overfitting,过拟合,overfitting,Overfitting,Переобучение,Қайта Оқыту,规范化英文精确匹配,四语已对齐（ISSAI）
+T0266,Google ML Glossary,parameter,参数,parameter,Parameter,Параметр,Параметр,规范化英文精确匹配,四语已对齐（ISSAI）
+T0267,Google ML Glossary,precision,精确度,precision,Precision,Четкость,Дәлдік,规范化英文精确匹配,四语已对齐（ISSAI）
+T0268,Google ML Glossary,probability-density-function,概率密度函数,probability density function,Probability Density Function,Функция Плотности Вероятности,Ықтималдық Тығыздығы Функциясы,规范化英文精确匹配,四语已对齐（ISSAI）
+T0269,Google ML Glossary,quantization,量化,quantization,Quantization,Квантование,Кванттау,规范化英文精确匹配,四语已对齐（ISSAI）
+T0270,Google ML Glossary,queue,队列,queue,Queue,Очередь,Кезек,规范化英文精确匹配,四语已对齐（ISSAI）
+T0271,Google ML Glossary,random-forest,随机森林,random forest,Random Forest,Алгоритм Случайного Леса,Кездейсоқ Орман Алгоритмы,规范化英文精确匹配,四语已对齐（ISSAI）
+T0272,Google ML Glossary,recall,召回,recall,Recall,Полнота,Толықтық,规范化英文精确匹配,四语已对齐（ISSAI）
+T0273,Google ML Glossary,rectified-linear-unit-relu,修正线性单元 (ReLU),Rectified Linear Unit (ReLU),Rectified Linear Unit (ReLU),Выпрямленный Линейный Блок (Relu),Түзетілген Желілік Блок (Relu),规范化英文精确匹配,四语已对齐（ISSAI）
+T0274,Google ML Glossary,reflection,反思,reflection,Reflection,Отражение,Шығылу/ Кескін,规范化英文精确匹配,四语已对齐（ISSAI）
+T0275,Google ML Glossary,reward,奖励,reward,Reward,Вознаграждения,Марапат,规范化英文精确匹配,四语已对齐（ISSAI）
+T0276,Google ML Glossary,root-directory,根目录,root directory,Root Directory,Корневой Каталог,Түбірлік Каталог,规范化英文精确匹配,四语已对齐（ISSAI）
+T0277,Google ML Glossary,root-mean-squared-error-rmse,均方根误差 (RMSE),Root Mean Squared Error (RMSE),Root Mean Squared Error (RMSE),Среднеквадратическое Отклонение (Rmse),Орташа Квадраттық Ауытқу (Rmse),规范化英文精确匹配,四语已对齐（ISSAI）
+T0278,Google ML Glossary,scaling,扩缩,scaling,Scaling,Масштабирование,Масштабтау,规范化英文精确匹配,四语已对齐（ISSAI）
+T0279,Google ML Glossary,semi-supervised-learning,半监督式学习,semi-supervised learning,Semi-Supervised Learning,Полуавтоматическое Обучение / Частичное Обучение,Жартылай Автоматты Оқыту / Ішінара Оқыту,规范化英文精确匹配,四语已对齐（ISSAI）
+T0280,Google ML Glossary,sentiment-analysis,情感分析,sentiment analysis,Sentiment Analysis,Анализ Тональности Текста,Мәтіннің Үнсіздігін Талдау,规范化英文精确匹配,四语已对齐（ISSAI）
+T0281,Google ML Glossary,sigmoid-function,S 型函数,sigmoid function,Sigmoid Function,Сигмоида,Сигмоида,规范化英文精确匹配,四语已对齐（ISSAI）
+T0282,Google ML Glossary,stochastic-gradient-descent-sgd,随机梯度下降法 (SGD),stochastic gradient descent (SGD),Stochastic Gradient Descent (SGD),Стохастический Градиентный Спуск,Стохастикалық Градиетті Құлдырау,规范化英文精确匹配,四语已对齐（ISSAI）
+T0283,Google ML Glossary,tensor,Tensor,Tensor,Tensor,Тензор,Тензор,规范化英文精确匹配,四语已对齐（ISSAI）
+T0284,Google ML Glossary,termination-condition,终止条件,termination condition,Termination Condition,Условие Прекращения,Тоқтатылу Шарты,规范化英文精确匹配,四语已对齐（ISSAI）
+T0285,Google ML Glossary,time-series-analysis,时序分析,time series analysis,Time Series Analysis,Анализ Временных Рядов,Уақыт Қатарларын Талдау,规范化英文精确匹配,四语已对齐（ISSAI）
+T0286,Google ML Glossary,token,token,token,Token,Токен,Токен,规范化英文精确匹配,四语已对齐（ISSAI）
+T0287,Google ML Glossary,training,训练,training,Training,Обучение,"Оқыту, Үйрету",规范化英文精确匹配,四语已对齐（ISSAI）
+T0288,Google ML Glossary,transfer-learning,迁移学习,transfer learning,Transfer Learning,Передача Модели Обучения,Оқуды Тарату,规范化英文精确匹配,四语已对齐（ISSAI）
+T0289,Google ML Glossary,transformer,Transformer,Transformer,Transformer,Трансформатор,Трансформатор,规范化英文精确匹配,四语已对齐（ISSAI）
+T0290,Google ML Glossary,validation,验证,validation,Validation,Проверка,Тексеру,规范化英文精确匹配,四语已对齐（ISSAI）
+T0291,Google ML Glossary,vector,vector,vector,Vector,Вектор,Вектор,规范化英文精确匹配,四语已对齐（ISSAI）
+T0292,Google ML Glossary,weight,重量,weight,Weight,Вес,Салмақ,规范化英文精确匹配,四语已对齐（ISSAI）
+T0293,Google ML Glossary,zero-shot-learning,零样本学习,zero-shot learning,Zero-Shot Learning,Обучение Нулевой Попыткой,Әрекетсіз Үйрену,规范化英文精确匹配,四语已对齐（ISSAI）
+T0294,GIST + ISSAI,GIST-ZH-826/RU-699,准确率,accuracy,Accuracy,Точность/Аккуратность,Болжам Дәлдігі,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0295,GIST + ISSAI,GIST-ZH-844/RU-714,激活函数,activation function,Activation Function,Функция Активации,Белсендіру/Активация Функциясы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0296,GIST + ISSAI,GIST-ZH-882/RU-742,对抗学习,adversarial learning,Adversarial Learning,Состязательное (Вредоносное) Обучение,Бәсекелестік Дайындығы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0297,GIST + ISSAI,GIST-ZH-896/RU-754,仿射变换,affine transformation,Affine Transformation,Аффинное Преобразование,Аффин Түрлендіру,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0298,GIST + ISSAI,GIST-ZH-943/RU-796,异常检测,anomaly detection,Anomaly Detection,Выявление Аномалий / Обнаружение Выбросов,Аномалияларды Анықтау / Шығарындыларды Анықтау,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0299,GIST + ISSAI,GIST-ZH-981/RU-830,论元,argument,Argument,Аргумент,"Дәлел, Аргумент",规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0300,GIST + ISSAI,GIST-ZH-991/RU-840,人工神经网络,artificial neural network,Artificial Neural Network,Искусственная Нейронная Сеть,Жасанды Нейрондық Желі,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0301,GIST + ISSAI,GIST-ZH-1010/RU-861,注意力,attention,Attention,Внимание,Назар,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0302,GIST + ISSAI,GIST-ZH-1030/RU-878,属性,attribute,Attribute,Свойство/Атрибут,Қасиет/Атрибут,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0303,GIST + ISSAI,GIST-ZH-1045/RU-889,自编码器,autoencoder,Autoencoder,Автокодировщик,Автокодтаушы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0304,GIST + ISSAI,GIST-ZH-1087/RU-925,后门,backdoor,Backdoor,Бэкдор / Тайный Вход,Бэкдор / Құпия Кіру,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0305,GIST + ISSAI,GIST-ZH-71/RU-61,反向传播,Backpropagation,Backpropagation,Метод Обратного Распространения Ошибки,Артқы Аралық Әдісі,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0306,GIST + ISSAI,GIST-ZH-1144/RU-967,批量规范化,batch normalization,Batch Normalization,Нормализация Батча,Батчті Нормалау,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0307,GIST + ISSAI,GIST-ZH-1150/RU-972,束搜索,beam search,Beam Search,Поиск Балки,Арқалық іздеу,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0308,GIST + ISSAI,GIST-ZH-1167/RU-989,最佳优先搜索,best-first search,Best-First Search,Поиск По Первому Наилучшему Совпадению,Бірінші Ең Жақсы Сәйкестік Бойынша Іздеу,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0309,GIST + ISSAI,GIST-ZH-1178/RU-997,偏差,bias,Bias,Предвзятость,Алдыналушылық,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0310,GIST + ISSAI,GIST-ZH-1188/RU-1002,偏差-方差权衡,bias-variance tradeoff,Bias-Variance Tradeoff,Дилемма Смещения-Дисперсии,Ығысу-Дисперсия Диллемасы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0311,GIST + ISSAI,GIST-ZH-1201/RU-1010,双向搜索,bidirectional search,Bidirectional Search,Двунаправленный Поиск,Екі Бағытты Іздеу,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0312,GIST + ISSAI,GIST-ZH-1304/RU-1088,微积分,calculus,Calculus,"Исчисление, Математический Анализ",Математикалық Анализ,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0313,GIST + ISSAI,GIST-ZH-1358/RU-1138,质心,centroid,Centroid,Центроид/Барицентр,Центроид/Барицентр,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0314,GIST + ISSAI,GIST-ZH-1359/RU-1139,链式法则,chain rule,Chain Rule,Цепное Правило/Дифференцирование Сложной Функции,Күрделі Функцияны Дифференциалдау,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0315,GIST + ISSAI,GIST-ZH-1370/RU-1148,聊天机器人,chatbot,Chatbot,Виртуальный Собеседник / Чат-Бот,Виртуалды Әңгімелесуші / Чат-Бот,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0316,GIST + ISSAI,GIST-ZH-1383/RU-1157,类别,class,Class,Класс,Класс,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0317,GIST + ISSAI,GIST-ZH-1387/RU-1161,类标记,class label,Class label,Метка Класса,Класс Белгісі,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0318,GIST + ISSAI,GIST-ZH-1392/RU-1164,分类,classification,Classification,Классификация,Жіктеу,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0319,GIST + ISSAI,GIST-ZH-1438/RU-1202,聚类,clustering,Clustering,Кластеризация,Кластерлеу,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0320,GIST + ISSAI,GIST-ZH-1468/RU-1229,认知科学,cognitive science,Cognitive Science,Когнитивистика,Когнитивтік Ғылым,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0321,GIST + ISSAI,GIST-ZH-1483/RU-1243,组合优化,combinatorial optimization,Combinatorial Optimization,Комбинаторная Оптимизация,Комбинаторлық Оңтайландыру,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0322,GIST + ISSAI,GIST-ZH-1521/RU-1274,计算图,computational graph,Computational Graph,Вычислительный График,Есептегіш Кесте,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0323,GIST + ISSAI,GIST-ZH-1523/RU-1275,计算语言学,computational linguistics,Computational Linguistics,Компьютерная Лингвистика,Компьютер Лингвистикасы?,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0324,GIST + ISSAI,GIST-ZH-1531/RU-1281,计算机视觉,computer vision,Computer Vision,Компьютерное Зрение,Компьютерлік Көру,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0325,GIST + ISSAI,GIST-ZH-1555/RU-1305,条件独立,conditional independence,Conditional Independence,Условная Независимость,Шартты Тәуелсіздік,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0326,GIST + ISSAI,GIST-ZH-1578/RU-1321,置信区间,confidence interval,Confidence Interval,Доверительный Интервал,Сенімгерлік Межелдемесі,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0327,GIST + ISSAI,GIST-ZH-1584/RU-1326,混淆矩阵,confusion matrix,Confusion Matrix,Матрица Ошибок,Қателер Матрицасы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0328,GIST + ISSAI,GIST-ZH-1615/RU-1353,约束优化问题,constrained optimization problem,Constrained Optimization Problem,Ограниченная Оптимизационная Задача,Шектелген Оптимизация Тапсырмасы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0329,GIST + ISSAI,GIST-ZH-1681/RU-1405,凸函数,convex function,Convex Function,Выпуклая Функция,Дөңес Функция,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0330,GIST + ISSAI,GIST-ZH-1682/RU-1406,凸包,convex hull,Convex Hull,Выпуклая Оболочка,Дөңес Қабықша,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0331,GIST + ISSAI,GIST-ZH-1686/RU-1410,凸优化,convex optimization,Convex Optimization,Выпуклая Оптимизация,Дөңес Оңтайландыру,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0332,GIST + ISSAI,GIST-ZH-1699/RU-1422,卷积,convolution,Convolution,Свертка,Үйірткі,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0333,GIST + ISSAI,GIST-ZH-1718/RU-1439,卷积神经网络,convolutional neural network,Convolutional Neural Network,Сверточная Нейронная Сеть,Конволюциялық Нейрондық Желі,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0334,GIST + ISSAI,GIST-ZH-1753/RU-1467,代价函数,cost function,Cost Function,Целевая Функция,Мақсаттық Функция,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0335,GIST + ISSAI,GIST-ZH-1764/RU-1476,协方差,covariance,Covariance,Ковариация,Ковариация,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0336,GIST + ISSAI,GIST-ZH-1768/RU-1479,协方差矩阵,covariance matrix,Covariance Matrix,Ковариационная Матрица,Ковариациялық Матрица,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0337,GIST + ISSAI,GIST-ZH-1787/RU-1494,交叉熵,cross entropy,Cross Entropy,Перекрестная Энтропия,Тоғыспалы Энтропия,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0338,GIST + ISSAI,GIST-ZH-1789/RU-1496,交叉验证,cross validation,Cross Validation,Перекрестная Проверка,Айқас Тексеру / Кросс-Валидация,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0339,GIST + ISSAI,GIST-ZH-1815/RU-1517,维数灾难,curse of dimensionality,Curse of Dimensionality,Проклятие Размерности,Өлшемдік Қарғыс,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0340,GIST + ISSAI,GIST-ZH-1833/RU-1527,数据增强,data augmentation,Data Augmentation,Наращивание Данных,Деректерді Толықтыру,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0341,GIST + ISSAI,GIST-ZH-1850/RU-1538,数据挖掘,data mining,Data Mining,Добыча Данных,Деректер Өндіру,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0342,GIST + ISSAI,GIST-ZH-1864/RU-1543,数据稀疏性,data sparsity,Data Sparsity,Разреженность Данных,Деректер Ауқымы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0343,GIST + ISSAI,GIST-ZH-1866/RU-1544,数据结构,data structure,Data Structure,Структруа Данных,Деректер Құрылымы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0344,GIST + ISSAI,GIST-ZH-214/RU-168,数据集,Dataset,Dataset,Набор Данных,Деректер Жиынтығы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0345,GIST + ISSAI,GIST-ZH-1896/RU-1567,决策边界,decision boundary,Decision Boundary,Граница Приниятия Решения,Шешім Шекарасы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0346,GIST + ISSAI,GIST-ZH-1906/RU-1575,决策理论,decision theory,Decision Theory,Теория Принятия Решений,Шешім Теориясы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0347,GIST + ISSAI,GIST-ZH-1906/RU-1575,决策理论,decision theory,Decision Theory,Теория Принятия Решений,Шешім Теориясы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0348,GIST + ISSAI,GIST-ZH-1907/RU-1576,决策树,decision tree,Decision tree,Дерево Решений,Шешімдер Ағашы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0349,GIST + ISSAI,GIST-ZH-1942/RU-1608,深度学习,deep learning,Deep Learning,Глубокое Обучение,Терең Оқыту,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0350,GIST + ISSAI,GIST-ZH-2016/RU-1678,因变量,dependent variable,Dependent Variable,Зависимая Переменная,Тәуелді Айнымалы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0351,GIST + ISSAI,GIST-ZH-2085/RU-1733,维度,dimension,Dimension,Размерность,Өлшем,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0352,GIST + ISSAI,GIST-ZH-2089/RU-1737,降维,dimensionality reduction,Dimensionality Reduction,Снижение Размерности,Өлшемділікті Төмендету,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0353,GIST + ISSAI,GIST-ZH-2103/RU-1744,消歧义,disambiguation,Disambiguation,Неоднозначность,Айрық,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0354,GIST + ISSAI,GIST-ZH-2136/RU-1774,距离度量,distance metric,Distance Metric,Метрическое Пространство,Қашықтықты Өлшеу,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0355,GIST + ISSAI,GIST-ZH-2188/RU-1816,点积,dot product,Dot Product,Скалярное Умножение,Элемент Бойынша Көбейту / Скаляр Көбейтінді,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0356,GIST + ISSAI,GIST-ZH-2230/RU-1846,动态规划,dynamic programming,Dynamic Programming,Динамичное Программирование,Динамикалық Программалау/Динамикалық Бағдарламалау,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0357,GIST + ISSAI,GIST-ZH-2240/RU-1852,早停,early stopping,Early Stopping,Ранняя Остановка,Ерте Тоқтау,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0358,GIST + ISSAI,GIST-ZH-2309/RU-1909,模拟器,emulator,Emulator,Эмулятор,Эмулятор,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0359,GIST + ISSAI,GIST-ZH-2381/RU-1968,轮,epoch,Epoch,Эпоха Обучения,Оқу Кезеңі,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0360,GIST + ISSAI,GIST-ZH-2412/RU-1987,评估集,evaluation set,Evaluation Set,Пакет Определения Оценки,Бағалауды Анықтау Пакеті,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0361,GIST + ISSAI,GIST-ZH-2436/RU-2000,期望极大算法,expectation maximization algorithm,Expectation Maximization Algorithm,Алгоритм Максимизации Ожидания,Болжамды Максимизациялау Алгоритмі,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0362,GIST + ISSAI,GIST-ZH-2444/RU-2003,期望效用,expected utility,Expected Utility,Ожидаемая Полезность,Күтпелі(Күтілетін) Пайдалылық,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0363,GIST + ISSAI,GIST-ZH-2451/RU-2007,专家系统,expert system,Expert System,Экспертная Система,Сараптау Жүйесі,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0364,GIST + ISSAI,GIST-ZH-2464/RU-2014,探索性数据分析,exploratory data analysis,Exploratory Data Analysis,Разведочный Анализ Данных,Деректерді Барлау Талдауы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0365,GIST + ISSAI,GIST-ZH-2489/RU-2035,人脸识别,face recognition,Face Recognition,Распознование Лица,Бет Танымдау,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0366,GIST + ISSAI,GIST-ZH-2494/RU-2040,因子分析,factor analysis,Factor Analysis,Факторный Анализ,Факторлық Талдау,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0367,GIST + ISSAI,GIST-ZH-2509/RU-2052,假负例,false negative,False Negative,Ложноотрицательный,Жалған Теріс,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0368,GIST + ISSAI,GIST-ZH-2551/RU-2085,特征选择,feature selection,Feature Selection,Отбор Признаков / Отбор Атрибутов,Белгілерді Іріктеу / Атрибуттарды Іріктеу,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0369,GIST + ISSAI,GIST-ZH-275/RU-217,联邦学习,Federated Learning,Federated Learning,Федеративное Обучение,Федеравтік Оқыту,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0370,GIST + ISSAI,GIST-ZH-2604/RU-2121,一阶逻辑,first-order logic,First-Order Logic,Логика Первого Порядка,Бірінші Ретті Логика,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0371,GIST + ISSAI,GIST-ZH-2631/RU-2136,预测,forecasting,Forecasting,Прогнозирование,Болжау,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0372,GIST + ISSAI,GIST-ZH-2692/RU-2182,模糊逻辑,fuzzy logic,Fuzzy Logic,Нечеткая Логика,Бұлдыр Логика,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0373,GIST + ISSAI,GIST-ZH-2704/RU-2193,门,gate,Gate,Ворота,Қақпасы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0374,GIST + ISSAI,GIST-ZH-2755/RU-2217,生成器,generator,Generator,Генератор,Генератор,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0375,GIST + ISSAI,GIST-ZH-2778/RU-2235,全局最小,global minimum,Global Minimum,Глобальный Минимум,Глобалды Минимум,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0376,GIST + ISSAI,GIST-ZH-2790/RU-2249,梯度,gradient,Gradient,Градиент,Градиент,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0377,GIST + ISSAI,GIST-ZH-2801/RU-2256,梯度下降,gradient descent,Gradient Descent,Градиентный Спуск,Градиенттік Төмендеу,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0378,GIST + ISSAI,GIST-ZH-2872/RU-2316,图论,graph theory,Graph Theory,Теория Графов,Графтар Теориясы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0379,GIST + ISSAI,GIST-ZH-2874/RU-2318,图遍历,graph traversal,Graph Traversal,Обход Графа,Графты Аралап Шығу,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0380,GIST + ISSAI,GIST-ZH-2904/RU-2338,贪心搜索,greedy search,Greedy Search,Жадный Поиск,Аш Іздеу,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0381,GIST + ISSAI,GIST-ZH-2914/RU-2345,真实值,ground truth,Ground Truth,Истина,Шындық,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0382,GIST + ISSAI,GIST-ZH-2937/RU-2357,哈希表,hash table,Hash Table,Pандомизированная (Хэш) Таблица,Рандомизацияланған (Хэш) Кесте,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0383,GIST + ISSAI,GIST-ZH-2944/RU-2364,热力图,heatmap,Heatmap,Тепловая Карта,Жылу Картасы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0384,GIST + ISSAI,GIST-ZH-2961/RU-2383,隐藏层,hidden layer,Hidden Layer,Скрытый Слой,Жасырын Қабат,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0385,GIST + ISSAI,GIST-ZH-2954/RU-2377,隐马尔可夫模型,hidden Markov model,Hidden Markov Model,Скрытая Марковская Модель,Жасырын Марков Моделі,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0386,GIST + ISSAI,GIST-ZH-2972/RU-2393,层次聚类,hierarchical clustering,Hierarchical Clustering,Иерархическая Кластеризация,Иерархиялық Кластерлеу,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0387,GIST + ISSAI,GIST-ZH-3037/RU-2439,超平面,hyperplane,Hyperplane,Гиперплоскость,Гипержазықтық,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0388,GIST + ISSAI,GIST-ZH-3042/RU-2443,假设,hypothesis,Hypothesis,Гипотеза,Гипотеза,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0389,GIST + ISSAI,GIST-ZH-3045/RU-2446,假设空间,hypothesis space,Hypothesis Space,Пространство Гипотез,Гипотеза Кеңістігі,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0390,GIST + ISSAI,GIST-ZH-3064/RU-2462,图像压缩,image compression,Image Compression,Сжатие Изображения,Кескінді Қысу,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0391,GIST + ISSAI,GIST-ZH-3078/RU-2476,图像还原,image restoration,Image Restoration,Восстановление Изображения,Суретті Қалпына Келтіру,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0392,GIST + ISSAI,GIST-ZH-3079/RU-2477,图像分割,image segmentation,Image Segmentation,Сегментация Изображений,Сурет Сенментациясы(Бөлімі),规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0393,GIST + ISSAI,GIST-ZH-3089/RU-2486,不完美信息,imperfect information,Imperfect Information,Неполная Информация/Несовершенная Информация,Толық Емес Ақпарат/ Жетілмеген Ақпарат,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0394,GIST + ISSAI,GIST-ZH-3111/RU-2506,增量学习,incremental learning,Incremental Learning,Инкрементное Обучение,Үдемелі/Инкременнті Оқыту,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0395,GIST + ISSAI,GIST-ZH-3129/RU-2516,归纳,induction,Induction,Индукция,Индукция,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0396,GIST + ISSAI,GIST-ZH-3137/RU-2526,推断,inference,Inference,Вывод,Қорытынды,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0397,GIST + ISSAI,GIST-ZH-3159/RU-2550,信息检索,information retrieval,Information Retrieval,Извлечение Информации,Ақпаратты Алу,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0398,GIST + ISSAI,GIST-ZH-3250/RU-2637,难处理性,intractability,Intractability,Неподатливость,Шешілмейтіндік,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0399,GIST + ISSAI,GIST-ZH-3292/RU-2666,迭代,iteration,Iteration,Итерация,Итерация,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0400,GIST + ISSAI,GIST-ZH-3316/RU-2687,联合概率分布,joint probability distribution,Joint Probability Distribution,Совместное Распределение Вероятности,Бірлескен Ықтималдылық Үлестірімі,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0401,GIST + ISSAI,GIST-ZH-413/RU-327,K-均值,K-means,K-Means,Метод K-Средних,K-Орташа Әдісі,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0402,GIST + ISSAI,GIST-ZH-425/RU-334,核函数,Kernel,Kernel,Ядро,Ядро,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0403,GIST + ISSAI,GIST-ZH-3343/RU-2712,核函数,kernel function,Kernel Function,Ядерная Функция / Кернфункция,Кернфункция,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0404,GIST + ISSAI,GIST-ZH-3358/RU-2727,核技巧,kernel trick,Kernel Trick,Ядерный Трюк,Ядролық Трюгі,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0405,GIST + ISSAI,GIST-ZH-3387/RU-2761,标签,label,Label,Метка,Белгі,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0406,GIST + ISSAI,GIST-ZH-3445/RU-2810,潜变量,latent variable,Latent Variable,Скрытая Переменная,Жасырын Айнымалы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0407,GIST + ISSAI,GIST-ZH-3460/RU-2818,叶结点,leaf node,Leaf Node,Листовой Узел,Жапырақ Түйіні?,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0408,GIST + ISSAI,GIST-ZH-3478/RU-2832,学习率,learning rate,Learning Rate,Скорость Обучения,Оқу Деңгейі,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0409,GIST + ISSAI,GIST-ZH-483/RU-381,引理,Lemma,Lemma,Лемма,Лемма,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0410,GIST + ISSAI,GIST-ZH-3535/RU-2876,线性代数,linear algebra,Linear Algebra,Линейная Алгебра,Сызықтық Алгебра,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0411,GIST + ISSAI,GIST-ZH-3545/RU-2882,线性约束,linear constraint,Linear Constraint,Линейное Ограничение,Сызықтық Шектеулік,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0412,GIST + ISSAI,GIST-ZH-3557/RU-2892,线性插值,linear interpolation,Linear Interpolation,Линейная Интерполяция,Сызықтық Интерполяция,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0413,GIST + ISSAI,GIST-ZH-3571/RU-2904,线性回归,linear regression,Linear Regression,Линейная Регрессия,Сызықтық Регрессия,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0414,GIST + ISSAI,GIST-ZH-3619/RU-2936,局部极大点,local maximum,Local Maximum,Локальный Максимум,Локалды Максимум,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0415,GIST + ISSAI,GIST-ZH-3622/RU-2939,局部极小,local minimum,Local Minimum,Локальный Минимум,Локалды Минимум,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0416,GIST + ISSAI,GIST-ZH-3635/RU-2949,定位,localization,Localization,Локализация,Локализация,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0417,GIST + ISSAI,GIST-ZH-3641/RU-2954,对数损失,log loss,Log Loss,Логистическая Функция Ошибки,Қатенің Логистикалық Функциясы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0418,GIST + ISSAI,GIST-ZH-3668/RU-2985,对数几率回归,logistic regression,Logistic Regression,Логистическая Регрессия,Логистикалық Регрессия,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0419,GIST + ISSAI,GIST-ZH-3684/RU-2991,查找表,lookup table,Lookup Table,Таблица Поиска,Іздеу Кестесі,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0420,GIST + ISSAI,GIST-ZH-3700/RU-3005,低维嵌入,low-dimensional embedding,Low-Dimensional Embedding,Малоразмерное Вложение,Төмен Өлшемді Кірістіру,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0421,GIST + ISSAI,GIST-ZH-3702/RU-3007,低通滤波器,low-pass filter,Low-pass Filter,Фильтр Нижних Частот,Төменгі Жиіліктер Сүзгісі,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0422,GIST + ISSAI,GIST-ZH-3708/RU-3013,机器学习,machine learning,Machine Learning,Машинное Обучение,Машиналық Оқыту,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0423,GIST + ISSAI,GIST-ZH-3714/RU-3019,机器翻译,machine translation,Machine Translation,Машинный Перевод,Машиналық Аударма,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0424,GIST + ISSAI,GIST-ZH-3764/RU-3054,矩阵,matrix,Matrix,Матрица,Матрица,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0425,GIST + ISSAI,GIST-ZH-3770/RU-3060,逆矩阵,matrix inversion,Matrix Inversion,Обратная Матрица,Кері Матрица,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0426,GIST + ISSAI,GIST-ZH-3803/RU-3089,极大似然估计,maximum likelihood estimation,Maximum Likelihood Estimation,Оценка Максимального Правдоподобия,Ең Жоғары Шындықты Бағалау,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0427,GIST + ISSAI,GIST-ZH-3876/RU-3134,元数据,metadata,Metadata,Метаданные,Метамәліметтер,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0428,GIST + ISSAI,GIST-ZH-3931/RU-3171,混合模型,mixture model,Mixture Model,Модель Смеси,Қоспа Моделі,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0429,GIST + ISSAI,GIST-ZH-3977/RU-3212,模型预测控制,model predictive control,Model Predictive Control,Управление С Прогнозирующими Моделями,Болжамды Моделдермен Басқару,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0430,GIST + ISSAI,GIST-ZH-3981/RU-3216,模型选择,model selection,Model Selection,Выбор Модели,Модельді Таңдау,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0431,GIST + ISSAI,GIST-ZH-4025/RU-3249,单调性,monotonic,Monotonic,Монотонный,Монотонды,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0432,GIST + ISSAI,GIST-ZH-580/RU-465,蒙特卡罗模拟,Monte Carlo simulation,Monte Carlo Simulation,Моделирование По Методу Монте-Карло,Монте-Карло Әдісі Бойынша Модельдеу,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0433,GIST + ISSAI,GIST-ZH-4028/RU-3252,形态分析,morphological analysis,Morphological Analysis,Морфологический Анализ,Морфологиялық Талдау,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0434,GIST + ISSAI,GIST-ZH-4039/RU-3262,运动规划,motion planning,Motion Planning,Планирование Движения,Қозғалысты Жоспарлау,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0435,GIST + ISSAI,GIST-ZH-4052/RU-3273,多分类,multi-class classification,Multi-Class Classification,Многоклассовая Классификация,Көп Класты Жіктеу,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0436,GIST + ISSAI,GIST-ZH-4152/RU-3352,朴素贝叶斯,naive Bayes,Naive Bayes,Наивный Байесовский Классификатор,Аңғырт Байес Жіктегіш,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0437,GIST + ISSAI,GIST-ZH-4253/RU-3426,神经元,neuron,Neuron,Нейрон,Нейрон,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0438,GIST + ISSAI,GIST-ZH-4338/RU-3481,正态分布,normal distribution,Normal Distribution,Нормальное Распределение,Қалыпты Бөлу,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0439,GIST + ISSAI,GIST-ZH-4344/RU-3486,规范化,normalization,Normalization,Нормализация,Қалыпқа Келтіру,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0440,GIST + ISSAI,GIST-ZH-4390/RU-3522,对象识别,object recognition,Object Recognition,Распознавание Объекта,Объектіні Тану,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0441,GIST + ISSAI,GIST-ZH-4394/RU-3526,目标函数,objective function,Objective Function,Целевая Функция,Нысаналық Функция,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0442,GIST + ISSAI,GIST-ZH-4438/RU-3560,本体,ontology,Ontology,Онтология,Онтология,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0443,GIST + ISSAI,GIST-ZH-4454/RU-3574,最优控制理论,optimal control theory,Optimal Control Theory,Теория Оптимального Управления,Оңтайлы Басқару Теориясы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0444,GIST + ISSAI,GIST-ZH-4463/RU-3583,最优化,optimization,Optimization,Оптимизация,Оңтайландыру,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0445,GIST + ISSAI,GIST-ZH-4489/RU-3603,正交投影,orthographic projection,Orthographic Projection,Ортографическая Проекция,Ортографиялық Проекция,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0446,GIST + ISSAI,GIST-ZH-4500/RU-3611,异常点,outlier,Outlier,Выброс,Шығарынды,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0447,GIST + ISSAI,GIST-ZH-4504/RU-3615,输出,output,Output,Вывод/Выходные Данные,Шығу Деректері,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0448,GIST + ISSAI,GIST-ZH-4594/RU-3689,粒子滤波器,particle filter,Particle Filter,Многочастичный Фильтр,Көп Нүктелі Фильтрі,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0449,GIST + ISSAI,GIST-ZH-4598/RU-3692,图像块,patch,Patch,Заплатка / Патч,Жамылғы / Патч,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0450,GIST + ISSAI,GIST-ZH-4604/RU-3697,模式识别,pattern recognition,Pattern Recognition,Распознавание Образов,Бейнелерді Тану,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0451,GIST + ISSAI,GIST-ZH-4654/RU-3743,像素,pixel,Pixel,Пиксель,Пиксель,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0452,GIST + ISSAI,GIST-ZH-4668/RU-3758,点云,point cloud,Point Cloud,Облако Точек,Нүкте Бұлты,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0453,GIST + ISSAI,GIST-ZH-4700/RU-3786,多项式,polynomial,Polynomial,Многочлен,Көпмүшелік,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0454,GIST + ISSAI,GIST-ZH-4777/RU-3845,查准率,precision,Precision,Четкость,Дәлдік,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0455,GIST + ISSAI,GIST-ZH-4862/RU-3919,概率密度函数,probability density function,Probability Density Function,Функция Плотности Вероятности,Ықтималдық Тығыздығы Функциясы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0456,GIST + ISSAI,GIST-ZH-4913/RU-3973,命题逻辑,propositional logic,Propositional Logic,Логика Высказываний,Ұсыныс Логикасы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0457,GIST + ISSAI,GIST-ZH-4940/RU-3996,量化,quantization,Quantization,Квантование,Кванттау,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0458,GIST + ISSAI,GIST-ZH-4976/RU-4020,随机森林,random forest,Random Forest,Алгоритм Случайного Леса,Кездейсоқ Орман Алгоритмы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0459,GIST + ISSAI,GIST-ZH-4988/RU-4027,随机变量,random variable,Random Variable,Случайная Величина,Кездейсоқ Шама,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0460,GIST + ISSAI,GIST-ZH-4992/RU-4030,随机化,randomization,Randomization,Перемешивание/Рандомизация,Араластыру/Рандомизация,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0461,GIST + ISSAI,GIST-ZH-5012/RU-4044,查全率,recall,Recall,Полнота,Толықтық,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0462,GIST + ISSAI,GIST-ZH-5061/RU-4079,回归,regression,Regression,Регрессия,Регрессия,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0463,GIST + ISSAI,GIST-ZH-5088/RU-4106,强化学习,reinforcement learning,Reinforcement Learning,Обучение С Подкреплением,Негіздеп Оқыту,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0464,GIST + ISSAI,GIST-ZH-5106/RU-4126,表示学习,representation learning,Representation Learning,Обучение Признакам / Обучение Представлениям,Белгілерге Оқыту / Ұсыныстарға Оқыту,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0465,GIST + ISSAI,GIST-ZH-5149/RU-4157,奖励,reward,Reward,Вознаграждения,Марапат,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0466,GIST + ISSAI,GIST-ZH-5150/RU-4158,奖励函数,reward function,Reward Function,Функция Вознаграждения,Марапаттау Функциясы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0467,GIST + ISSAI,GIST-ZH-5169/RU-4173,稳健性,robustness,Robustness,Прочность,Беріктік/Робастылық,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0468,GIST + ISSAI,GIST-ZH-5214/RU-4205,可满足性,satisfiability,Satisfiability,Возможность Удовлетворения,Қанағаттандыру Мүмкіншілігі,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0469,GIST + ISSAI,GIST-ZH-5251/RU-4239,搜索算法,search algorithm,Search Algorithm,Алгоритм Поиска,Іздеу Алгоритмі,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0470,GIST + ISSAI,GIST-ZH-5255/RU-4245,搜索树,search tree,Search Tree,Дерево Посика,Іздеу Ағашы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0471,GIST + ISSAI,GIST-ZH-5264/RU-4251,分割,segmentation,Segmentation,Сегментация,"Сегментация, Бөлшектендіру",规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0472,GIST + ISSAI,GIST-ZH-5340/RU-4314,半监督学习,semi-supervised learning,Semi-Supervised Learning,Полуавтоматическое Обучение / Частичное Обучение,Жартылай Автоматты Оқыту / Ішінара Оқыту,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0473,GIST + ISSAI,GIST-ZH-5358/RU-4332,情感分析,sentiment analysis,Sentiment Analysis,Анализ Тональности Текста,Мәтіннің Үнсіздігін Талдау,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0474,GIST + ISSAI,GIST-ZH-5427/RU-4381,Sigmoid函数,sigmoid function,Sigmoid Function,Сигмоида,Сигмоида,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0475,GIST + ISSAI,GIST-ZH-5445/RU-4395,模拟退火,simulated annealing,Simulated Annealing,Алгоритм Симуляции Отжига,Күйдіруді Cимуляциялау Алгоритмі,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0476,GIST + ISSAI,GIST-ZH-5489/RU-4427,Softmax函数,softmax function,Softmax Function,Функция Softmax,Softmax Функциясы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0477,GIST + ISSAI,GIST-ZH-5498/RU-4434,来源,source,Source,Источник,Көзі,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0478,GIST + ISSAI,GIST-ZH-5508/RU-4444,垃圾信息检测,spam detection,Spam Detection,Обнаружение Спама,Спамды Анықтау,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0479,GIST + ISSAI,GIST-ZH-5522/RU-4452,稀疏矩阵,sparse matrix,Sparse Matrix,Разреженная Матрица,Сирек Матрица,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0480,GIST + ISSAI,GIST-ZH-5550/RU-4479,声谱图,spectrogram,Spectrogram,Спектрограмма,Спектрограмма,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0481,GIST + ISSAI,GIST-ZH-5552/RU-4483,语音识别,speech recognition,Speech Recognition,Распознавание Речи,Сөйлеуді Танымдау,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0482,GIST + ISSAI,GIST-ZH-5600/RU-4509,状态转移矩阵,state transition matrix,State Transition Matrix,Матрица Перехода Состояний,Күйлердің Өту Матрицасы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0483,GIST + ISSAI,GIST-ZH-5650/RU-4547,立体视觉,stereo vision,Stereo Vision,Cтереоскопическое Зрение,Стереоскопиялық Көру,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0484,GIST + ISSAI,GIST-ZH-5656/RU-4552,随机微分方程,stochastic differential equation,Stochastic Differential Equation,Стохастическое Дифференциальное Уравнение,Стохастикалық Дифференциалдық Теңдеу,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0485,GIST + ISSAI,GIST-ZH-5689/RU-4580,分层采样,stratified sampling,Stratified Sampling,Стратифицированный Отбор,Стратификацияланған Іріктеу,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0486,GIST + ISSAI,GIST-ZH-5786/RU-4654,监督学习,supervised learning,Supervised Learning,Обучение С Учителем,Бақылаумен Оқыту,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0487,GIST + ISSAI,GIST-ZH-5844/RU-4704,系统辨识,system identification,System Identification,Идентификация Систем,Жүйелерді Сәйкестендіру,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0488,GIST + ISSAI,GIST-ZH-5882/RU-4739,分类法,taxonomy,Taxonomy,Таксономия,Таксономия,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0489,GIST + ISSAI,GIST-ZH-5900/RU-4755,时序推理,temporal reasoning,Temporal Reasoning,Временные Рассуждения,Уақытша Пайымдаулар,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0490,GIST + ISSAI,GIST-ZH-5903/RU-4758,张量,tensor,Tensor,Тензор,Тензор,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0491,GIST + ISSAI,GIST-ZH-5912/RU-4766,终止状态,terminal state,Terminal State,Терминальное Состояние,Терминалдық Жағдайы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0492,GIST + ISSAI,GIST-ZH-5913/RU-4767,终止条件,termination condition,Termination Condition,Условие Прекращения,Тоқтатылу Шарты,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0493,GIST + ISSAI,GIST-ZH-5929/RU-4781,文本语料库,text corpus,Text Corpus,Текстовый Корпус,Мәтін Корпусы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0494,GIST + ISSAI,GIST-ZH-5960/RU-4805,时间序列分析,time series analysis,Time Series Analysis,Анализ Временных Рядов,Уақыт Қатарларын Талдау,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0495,GIST + ISSAI,GIST-ZH-6017/RU-4853,训练,training,Training,Обучение,"Оқыту, Үйрету",规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0496,GIST + ISSAI,GIST-ZH-6052/RU-4882,传递函数,transfer function,Transfer Function,Передаточная Функция,Беріліс Функциясы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0497,GIST + ISSAI,GIST-ZH-6053/RU-4883,迁移学习,transfer learning,Transfer Learning,Передача Модели Обучения,Оқуды Тарату,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0498,GIST + ISSAI,GIST-ZH-6068/RU-4896,状态转移矩阵,transition matrix,Transition Matrix,Матрица Перехода,Өту Матрицасы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0499,GIST + ISSAI,GIST-ZH-770/RU-648,图灵机,Turing machine,Turing Machine,Машина Тьюринга,Тьюринг Машинасы,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0500,GIST + ISSAI,GIST-ZH-6138/RU-4949,不确定性,uncertainty,Uncertainty,Неопределенность,Белгісіздік,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0501,GIST + ISSAI,GIST-ZH-6210/RU-4990,无监督学习,unsupervised learning,Unsupervised learning,Обучение Без Учителя,Бақылаусыз Оқыту,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0502,GIST + ISSAI,GIST-ZH-6237/RU-5012,验证,validation,Validation,Проверка,Тексеру,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0503,GIST + ISSAI,GIST-ZH-6325/RU-5090,词表,vocabulary,Vocabulary,Словарь,Сөздік,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0504,GIST + ISSAI,GIST-ZH-6332/RU-5096,体素,voxel,Voxel,Воксель,Воксель,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0505,GIST + ISSAI,GIST-ZH-6342/RU-5105,小波,wavelet,Wavelet,Вейвлет,Вейвлет,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0506,GIST + ISSAI,GIST-ZH-6343/RU-5106,小波变换,wavelet transform,Wavelet Transform,Вейвлет-Преобразование,Вейвлет-Түрлендіру,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0507,GIST + ISSAI,GIST-ZH-6354/RU-5115,权重,weight,Weight,Вес,Салмақ,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）
+T0508,GIST + ISSAI,GIST-ZH-6421/RU-5160,零试学习,zero-shot learning,Zero-Shot Learning,Обучение Нулевой Попыткой,Әрекетсіз Үйрену,规范化英文精确匹配,四语已对齐（GIST中文 + ISSAI俄哈）

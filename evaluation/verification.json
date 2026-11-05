@@ -1,0 +1,32 @@
+{
+  "status": "PASSED",
+  "validation": "Standalone metric calculation reproduces the frozen P1 and F1 2,000-item metrics and signatures without raw test text in the release.",
+  "checks": [
+    {
+      "group": "P1",
+      "status": "PASSED",
+      "metrics": {
+        "rows": 2000,
+        "bleu": 23.712470503748385,
+        "chrf_plus_plus": 51.116373082032226,
+        "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.4.3",
+        "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:2|space:no|version:2.4.3",
+        "sacrebleu_version": "2.4.3"
+      },
+      "raw_text_not_exported": true
+    },
+    {
+      "group": "F1",
+      "status": "PASSED",
+      "metrics": {
+        "rows": 2000,
+        "bleu": 24.84751461489947,
+        "chrf_plus_plus": 54.66338287614987,
+        "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.4.3",
+        "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:2|space:no|version:2.4.3",
+        "sacrebleu_version": "2.4.3"
+      },
+      "raw_text_not_exported": true
+    }
+  ]
+}

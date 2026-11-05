@@ -1,0 +1,17 @@
+{
+  "weights": {"qe": 0.25, "cosine": 0.25, "qwen": 0.25, "margin": 0.25},
+  "direction": "Higher is better for all four raw scores and normalized ranks.",
+  "deduplication": "Exact original raw target strings within each source; retain all route origins.",
+  "normalization": "Within-source ascending zero-based average ranks divided by m-1; singleton 0.5.",
+  "total": "Arithmetic mean of the four normalized ranks.",
+  "tie_break": ["Higher exact composite rank sum", "Higher raw QE", "Fixed primary-origin priority"],
+  "primary_origin_priority": ["P1", "T1", "T2", "T3_full508", "F1", "F2", "N1"],
+  "margin": "Frozen standard all-pool k=4 ratio, not leave-origin-out.",
+  "qwen": "Frozen yes-logit minus no-logit, not a calibrated correctness probability.",
+  "raw_score_precision": "Full Python float round-trip precision; no paper-table rounding.",
+  "scope": {"complete_source_pools": 49999, "training_sources": 49998, "route_labels_per_pool_before_deduplication": 7},
+  "new_api_calls": false,
+  "new_model_scoring": false,
+  "new_filtering": false,
+  "new_weight_search": false
+}

@@ -1,0 +1,5 @@
+{style_instruction}
+
+中文：{source_stripped}
+
+哈萨克语：

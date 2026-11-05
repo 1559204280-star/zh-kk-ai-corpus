@@ -1,0 +1,383 @@
+{
+  "prepared_date": "2026-11-02",
+  "evidence_audit_date": "2026-10-31",
+  "status": "Historical provenance for the authors-designated repository; public upload/access not verified during local preparation.",
+  "scope": "Sanitized fields extracted from retained historical manifests and the author audit. No new model calls, downloads, scoring or training were performed.",
+  "deepseek": {
+    "configuration_file": "../prompts/deepseek_generation_config.json",
+    "requested_model_alias": "deepseek-flash",
+    "reported_service_name": "DeepSeek-V4.1-Flash",
+    "service_name_basis": "Historical invocation dates and the provider release timeline retained by the authors, not an immutable revision returned by the API.",
+    "immutable_revision": null,
+    "provider_timeline_sources": [
+      "https://api-docs.deepseek.com/news/news260910/",
+      "https://api-docs.deepseek.com/updates/"
+    ]
+  },
+  "qwen_reranker": {
+    "model_id": "Qwen/Qwen3-Reranker-4B",
+    "official_model_page": "https://huggingface.co/Qwen/Qwen3-Reranker-4B",
+    "model_files_sha256": {
+      "chat_template.jinja": "6f682162495ec5b39fd9005c01b6aa2a74669379fe967039f1e2cbbe8752369d",
+      "config.json": "38bff5eac700032a185745e4076eccad7aa453473cafc2a27de412cdb7b79e19",
+      "config_sentence_transformers.json": "6a153d6696f78fd588c1c728967f0b773ea869d3c6028f151ce71ebe49140762",
+      "generation_config.json": "81051cd3f6e77013827148d0b8a6ead93f8ac390d5ab805f849199f0af6a08db",
+      "merges.txt": "8831e4f1a044471340f7c0a83d7bd71306a5b867e95fd870f74d0c5308a904d5",
+      "model-00001-of-00002.safetensors": "cf2e87cbf71fa628961532232e04dd6c19702a0a057f5e2aff95ea1aca4fd488",
+      "model-00002-of-00002.safetensors": "78946d22b7f6456ea7a5358dbdf3982de36c5bac1f166a5fd58e18e31db8048a",
+      "model.safetensors.index.json": "18a783f197360068da36d2ff9ecffce0121542a87598fd1fef3079ead1c3cc08",
+      "modules.json": "6f13b6b4a89e577b591b2077bca40c67c26541a6740a8809267cb474f90806a9",
+      "sentence_bert_config.json": "3234ebd224d492cbe8d55d5ec80a3f408451c4db3005bafb64fe1c51c763e01e",
+      "special_tokens_map.json": "76862e765266b85aa9459767e33cbaf13970f327a0e88d1c65846c2ddd3a1ecd",
+      "tokenizer.json": "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4",
+      "tokenizer_config.json": "253153d0738ceb4c668d2eff957714dd2bea0b56de772a9fdccd96cbf517e6a0",
+      "vocab.json": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910"
+    },
+    "hf_commit": null,
+    "first_download_date": null,
+    "revision_limit": "No verified HF commit or initial download date was found; content hashes identify the model files actually used.",
+    "instruction_file": "../prompts/qwen_instruction.txt",
+    "template_file": "../prompts/qwen_chat_template.txt",
+    "runtime": {
+      "torch": "2.5.1+cu121",
+      "transformers": "4.51.3",
+      "dtype": "bfloat16",
+      "attention": "sdpa",
+      "batch_size": 1,
+      "max_length": 2048,
+      "truncation": false
+    },
+    "observed_maximum_input_tokens": 925,
+    "ranking_score": "yes_logit - no_logit",
+    "probability_note": "The two-class sigmoid probability was a display value, not a calibrated human translation-quality probability.",
+    "score_signature": "f96ac3b698e441459810669bde1cbab05155b31ad312798a98cfdaa5c5fcd38b",
+    "full50000_task_record": {
+      "started_at": "2026-10-05T21:04:12.125164+08:00",
+      "ended_at": "2026-10-05T23:34:10.581221+08:00",
+      "time_semantics": "Recorded scoring-task runtime, not model download date or website access date.",
+      "reused_previously_scored_source_sentences": 300,
+      "new_deduplicated_source_target_pairs_scored": 224428,
+      "scope": "The task reused earlier scores; this is not a from-scratch runtime for all candidates."
+    }
+  },
+  "sonar": {
+    "model_id": "cointegrated/SONAR_200_text_encoder",
+    "revision": "29f2eac73636d1548c2cb227dbfb2772b31ebc4f",
+    "model_files_sha256": {
+      "config.json": "76cbdb05fe22f51b357876040547fcbb238de0be0ca5c42cc191e7ee71ba7c11",
+      "model.safetensors": "6b9e604e8707790fcba45add46b068d4f24fd669a2beafce77d582fa4af5f5ac",
+      "sentencepiece.bpe.model": "14bb8dfb35c0ffdea7bc01e56cea38b9e3d5efcdcb9c251d6b40538e1aab555a",
+      "special_tokens_map.json": "bf5b730279971951c64caf9fb09ac88417d06ce49a76907481b18de10a1b0c23",
+      "tokenizer.json": "8ac789ad7dabea44d41537822d48c516ba358374c51813e2cba78c006e150c94",
+      "tokenizer_config.json": "c8899aa82c934452a998fc880f3e80804739da18d1d0456c3c83a09b1b7156b7"
+    },
+    "adapter_sha256": "47129ca61a05f5def60e17a8b0e6177e522dd13c10eeef6e1ae777a3ee4c61ad",
+    "parameters": {
+      "source_language": "zho_Hans",
+      "target_language": "kaz_Cyrl",
+      "dtype": "float16",
+      "batch_size": 64,
+      "max_length": 512,
+      "expected_embedding_dimension": 1024,
+      "pooling": "attention_mask_mean_l2_normalized",
+      "encoding": "Original raw strings unchanged; global exact-string dedup separately by language; ascending character-length batches.",
+      "score": "Dot product of FP32 L2-normalized attention-mask mean-pooled vectors; FP16 encoder; cosine only.",
+      "truncation": "Legacy max_length=512; overlength cases flagged, never silently omitted."
+    },
+    "runtime": {
+      "torch": "2.10.0+cu128",
+      "transformers": "5.3.0",
+      "numpy": "2.4.3",
+      "python": "3.12.12"
+    }
+  },
+  "sonar_margin": {
+    "k": 4,
+    "pool": "Global exact-raw-string dedup; all existing routes, fixed first-occurrence index order.",
+    "formula": "ratio=cosine/((mean_4_zh_to_kk+mean_4_kk_to_zh)/2); distance=cosine-background.",
+    "search": "Exact exhaustive FP32 CPU matrix multiplication; both directions accumulated from the same blocks; no approximate index.",
+    "threads": 4,
+    "batch": 256,
+    "selected_signal": "Standard ratio margin, not the leave-origin-out diagnostic.",
+    "limitation": "Shared candidate-pool dependence; semantically equivalent paraphrases can affect density. Derived from SONAR, not an independent quality vote.",
+    "reference": "https://aclanthology.org/P19-1309/"
+  },
+  "n1": {
+    "model_id": "facebook/nllb-200-3.3B",
+    "revision_from_local_download_receipts": "1a07f7d195896b2114afcb79b7b57ab512e7b43e",
+    "model_files_sha256": {
+      "config.json": "24027fbba45b65c168cc22f5afa3561476691e0e9a06286e1430ffff74e418eb",
+      "generation_config.json": "0bb604cdb8392649176935a447ce994128f170a6908c135a17d0e3dfb8113cb2",
+      "tokenizer_config.json": "d1aa8c3697d3e35674f97b5b7e9c99d22b010f528e80140257d97316be90d044",
+      "tokenizer.json": "e316b82de11d0f951f370943b3c438311629547285129b0b81dadabd01bca665",
+      "special_tokens_map.json": "992bd4ed610d644d6823081937bcc91bb8878dd556cea4ae5327f2480361330e",
+      "sentencepiece.bpe.model": "14bb8dfb35c0ffdea7bc01e56cea38b9e3d5efcdcb9c251d6b40538e1aab555a",
+      "pytorch_model.bin.index.json": "c1290129b7a4156bfeb180501a37729dafddec3233d58e52ab0465eb03bf5ead",
+      "pytorch_model-00001-of-00003.bin": "ce0d15338d6508ea7679c9ffe1fda16e0f921956517a8077aa3b1c17ac405fa2",
+      "pytorch_model-00002-of-00003.bin": "1c5a44acb0287e905a62a506cf3e5af37956607f4c667d891ec069aa276be0be",
+      "pytorch_model-00003-of-00003.bin": "2cf744009996251567d7972f4436d65cf94380c5ddd8f524cb878e090b27bb50"
+    },
+    "settings": {
+      "source_lang": "zho_Hans",
+      "target_lang": "kaz_Cyrl",
+      "num_beams": 5,
+      "do_sample": false,
+      "max_source_length": 256,
+      "max_length": 256,
+      "batch_size": 8,
+      "shard_size": 200,
+      "dtype": "float16",
+      "seed": 42
+    },
+    "source_tokens_over_256": 0,
+    "prompt_applicability": "Encoder-decoder translation with language markers; no chat system/user prompt.",
+    "runtime_limit": "Exact generation runtime start/end and GPU model were not verified from these local files."
+  },
+  "quality_estimation": {
+    "model_id": "Unbabel/wmt23-cometkiwi-da-xl",
+    "checkpoint_sha256": "013f0d597208e84110dd7a3c1d49bb6cc898c6f837ece785da22d7a192eb5fd6",
+    "dtype": "float32",
+    "batch_size": 1,
+    "n1_scoring_packages": {
+      "torch": "2.6.0+cu118",
+      "transformers": "4.57.6",
+      "unbabel-comet": "2.2.7"
+    },
+    "scope_note": "The package versions are from the N1 QE scoring environment; do not assume every historical component used the same environment."
+  },
+  "qe_fusion": {
+    "upstream": "https://github.com/GeorgeVern/qe-fusion",
+    "algorithm_sha256": "65d20e93ac7f97bafb11f144830f16f1b34d9a34103437256ad9f877624fe75d",
+    "runner_sha256": "e8be3b8bfc69bd5bf8df52d9cfa0df1df56e830e5f30fb5c75b2c90ebc6b6a61",
+    "hparams_sha256": "f8c6e0dc989d05f70f3089122e220d965901172aa9103720c816e07883f668b9",
+    "checkpoint_sha256": "013f0d597208e84110dd7a3c1d49bb6cc898c6f837ece785da22d7a192eb5fd6",
+    "beam": 5,
+    "window": 1,
+    "dtype": "float32",
+    "inference_batch_size": 1,
+    "candidate_pools": {
+      "F1": [
+        "T1",
+        "T2",
+        "T3_full508"
+      ],
+      "F2": [
+        "T1",
+        "T2",
+        "T3_full508",
+        "P1"
+      ]
+    },
+    "prompt_applicability": "This is an algorithm operating on candidates and QE scores, not a separate chat-model prompt.",
+    "replication_limit": "The retained run uses WMT23 CometKiwi XL and is not a reproduction of every original-paper setting."
+  },
+  "p1_pengcheng_starling": {
+    "service": "External Pengcheng Starling video translation service",
+    "interface_client_label": "Starling Video API v1",
+    "interface_label_is_backend_version": false,
+    "immutable_backend_revision": null,
+    "exact_historical_access_dates": null,
+    "system_user_prompt": null,
+    "decoding_parameters": null,
+    "retained_request_example_fields": {
+      "sourceLang": "Chinese (Simplified)",
+      "targetLang": "Kazakh",
+      "level": 1,
+      "burnInSubtitles": false
+    },
+    "provenance_limit": "Retained client receipts identify an external service, but do not establish an immutable model revision or a complete per-segment job mapping for all P1 translations."
+  },
+  "legacy_automatic_review": {
+    "recorded_label": "GPT-6-Astra-Ultra",
+    "label_origin": "User-interface or author record; no verified original API model ID retained.",
+    "original_api_model_id": null,
+    "backend_revision": null,
+    "complete_historical_system_user_prompt": null,
+    "temperature": null,
+    "top_p": null,
+    "limit": "Retained assessment rules and results do not reconstruct an original API snapshot and must not be presented as independent human inter-annotator agreement."
+  },
+  "downstream_nllb_training": {
+    "base_model_id": "facebook/nllb-200-distilled-600M",
+    "records": [
+      {
+        "group": "EqualFour-Top1",
+        "seed": 42,
+        "data_seed": 42,
+        "started_at": "2026-10-11T10:25:24.701459+00:00",
+        "ended_at": "2026-10-11T11:05:19.344606+00:00",
+        "duration_seconds": 2394.643147,
+        "duration_scope": "run_manifest start to end: model loading, training, sanity generation and saving; excludes subsequent full test evaluation",
+        "hardware": {
+          "gpu_name": "NVIDIA GeForce RTX 3090 Ti",
+          "device_count": 1,
+          "total_memory_bytes": 25425608704
+        },
+        "runtime_versions": {
+          "python": "3.13.12",
+          "torch": "2.7.1+cu126",
+          "transformers": "4.57.6",
+          "accelerate": "1.13.0",
+          "pandas": "2.2.3",
+          "pyarrow": "24.0.0",
+          "cuda": "12.6",
+          "cudnn": 90501
+        },
+        "training_config": {
+          "expected_rows": 49998,
+          "expected_courses": 44,
+          "source_lang": "zho_Hans",
+          "target_lang": "kaz_Cyrl",
+          "model_storage_dtype": "float32",
+          "fp16": true,
+          "bf16": false,
+          "max_source_length": 256,
+          "max_target_length": 256,
+          "per_device_train_batch_size": 16,
+          "gradient_accumulation_steps": 4,
+          "effective_batch_size": 64,
+          "num_train_epochs": 3,
+          "expected_optimizer_updates": 2346,
+          "learning_rate": 2e-05,
+          "optim": "adamw_torch",
+          "lr_scheduler_type": "linear",
+          "weight_decay": 0.01,
+          "warmup_ratio": 0.1,
+          "gradient_checkpointing": true
+        },
+        "actual_optimizer_updates": 2346,
+        "completed_epochs": 3.0,
+        "trainable_parameters": 615073792,
+        "base_model_content_fingerprint": "3e53f2fab508b3ffa8e9393619d2e97002e5d47df479d77b409f0cb01a0ac2ed"
+      },
+      {
+        "group": "EqualFour-seed43",
+        "seed": 43,
+        "data_seed": 43,
+        "started_at": "2026-10-12T09:21:45.704068+00:00",
+        "ended_at": "2026-10-12T10:04:39.349999+00:00",
+        "duration_seconds": 2573.645931,
+        "duration_scope": "run_manifest start to end: model loading, training, sanity generation and saving; excludes subsequent full test evaluation",
+        "hardware": {
+          "gpu_name": "NVIDIA GeForce RTX 3090 Ti",
+          "device_count": 1,
+          "total_memory_bytes": 25425608704
+        },
+        "runtime_versions": {
+          "python": "3.13.12",
+          "torch": "2.7.1+cu126",
+          "transformers": "4.57.6",
+          "accelerate": "1.13.0",
+          "pandas": "2.2.3",
+          "pyarrow": "24.0.0",
+          "cuda": "12.6",
+          "cudnn": 90501
+        },
+        "training_config": {
+          "expected_rows": 49998,
+          "expected_courses": 44,
+          "source_lang": "zho_Hans",
+          "target_lang": "kaz_Cyrl",
+          "model_storage_dtype": "float32",
+          "fp16": true,
+          "bf16": false,
+          "max_source_length": 256,
+          "max_target_length": 256,
+          "per_device_train_batch_size": 16,
+          "gradient_accumulation_steps": 4,
+          "effective_batch_size": 64,
+          "num_train_epochs": 3,
+          "expected_optimizer_updates": 2346,
+          "learning_rate": 2e-05,
+          "optim": "adamw_torch",
+          "lr_scheduler_type": "linear",
+          "weight_decay": 0.01,
+          "warmup_ratio": 0.1,
+          "gradient_checkpointing": true
+        },
+        "actual_optimizer_updates": 2346,
+        "completed_epochs": 3.0,
+        "trainable_parameters": 615073792,
+        "base_model_content_fingerprint": "3e53f2fab508b3ffa8e9393619d2e97002e5d47df479d77b409f0cb01a0ac2ed"
+      },
+      {
+        "group": "EqualFour-seed44",
+        "seed": 44,
+        "data_seed": 44,
+        "started_at": "2026-10-12T09:21:45.703239+00:00",
+        "ended_at": "2026-10-12T10:01:54.172209+00:00",
+        "duration_seconds": 2408.46897,
+        "duration_scope": "run_manifest start to end: model loading, training, sanity generation and saving; excludes subsequent full test evaluation",
+        "hardware": {
+          "gpu_name": "NVIDIA GeForce RTX 3090 Ti",
+          "device_count": 1,
+          "total_memory_bytes": 25425608704
+        },
+        "runtime_versions": {
+          "python": "3.13.12",
+          "torch": "2.7.1+cu126",
+          "transformers": "4.57.6",
+          "accelerate": "1.13.0",
+          "pandas": "2.2.3",
+          "pyarrow": "24.0.0",
+          "cuda": "12.6",
+          "cudnn": 90501
+        },
+        "training_config": {
+          "expected_rows": 49998,
+          "expected_courses": 44,
+          "source_lang": "zho_Hans",
+          "target_lang": "kaz_Cyrl",
+          "model_storage_dtype": "float32",
+          "fp16": true,
+          "bf16": false,
+          "max_source_length": 256,
+          "max_target_length": 256,
+          "per_device_train_batch_size": 16,
+          "gradient_accumulation_steps": 4,
+          "effective_batch_size": 64,
+          "num_train_epochs": 3,
+          "expected_optimizer_updates": 2346,
+          "learning_rate": 2e-05,
+          "optim": "adamw_torch",
+          "lr_scheduler_type": "linear",
+          "weight_decay": 0.01,
+          "warmup_ratio": 0.1,
+          "gradient_checkpointing": true
+        },
+        "actual_optimizer_updates": 2346,
+        "completed_epochs": 3.0,
+        "trainable_parameters": 615073792,
+        "base_model_content_fingerprint": "3e53f2fab508b3ffa8e9393619d2e97002e5d47df479d77b409f0cb01a0ac2ed"
+      }
+    ],
+    "runtime_note": "The roughly 40-minute values include model loading, training, sanity generation and saving, and exclude subsequent full test evaluation."
+  },
+  "reported_lexical_metrics": {
+    "package": "sacrebleu",
+    "version": "2.4.3",
+    "aggregation": "corpus scores on the same 2,000 human-reference test pairs; reported on a 0-100 scale",
+    "BLEU": {
+      "tokenize": "13a",
+      "lowercase": false,
+      "smooth_method": "exp"
+    },
+    "chrF++": {
+      "char_order": 6,
+      "word_order": 2,
+      "beta": 2,
+      "lowercase": false,
+      "whitespace": false
+    },
+    "prediction_postprocessing": "tokenizer.batch_decode(..., skip_special_tokens=True), then .strip() on each decoded prediction.",
+    "no_added_postprocessing": [
+      "stemming",
+      "transliteration",
+      "case folding"
+    ],
+    "tokenization_cleanup_limit": "clean_up_tokenization_spaces was not explicitly set in the retained generation code."
+  },
+  "distribution_scope": "No model weights, original responses, course sentences, candidate translations, task identifiers or credential material are included in this provenance document.",
+  "metadata_revised_date": "2026-11-05",
+  "repository_url": "https://github.com/1559204280-star/zh-kk-ai-corpus"
+}

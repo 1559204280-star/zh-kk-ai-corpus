@@ -1,0 +1,33 @@
+Licensing of this resource package
+
+Required Notice: Copyright (c) 2026 Mingyuzhe Huang, Gulinigeer Abudouwaili, and Changlong Xu.
+Required Notice: Reproducibility materials for a Chinese-Cyrillic Kazakh AI-domain corpus, https://github.com/1559204280-star/zh-kk-ai-corpus
+
+1. Original Python code
+
+The authors' original Python scripts in selection/ and evaluation/ are licensed
+under PolyForm Noncommercial License 1.0.0. Its unmodified official text is in
+LICENSE-CODE.md. Commercial use is not granted under these terms.
+SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+
+2. Original non-code material
+
+The authors' original prompts, documentation and numerical score compilation
+are licensed under CC BY-NC 4.0, to the extent relevant rights apply. See
+LICENSE-DATA.md and the linked CC legal text. Commercial use is not granted.
+SPDX-License-Identifier: CC-BY-NC-4.0
+
+3. Third-party and excluded material
+
+The licenses above apply only to material the authors have rights to license.
+They do not replace upstream terms for models, software dependencies, tokenizer
+or chat-template components, terminology sources, or course materials.
+The included terminology/full508.csv incorporates third-party terms and is
+excluded from the blanket original-material grant; source-specific notices are
+recorded in terminology/LICENSE_STATUS.md. The licensed original contributions
+to examples/examples50.jsonl use CC BY-NC 4.0 to the extent the authors hold
+applicable rights; no further rights to whole courses or other source text are
+granted. The full corpus, original ID mapping, human-reference test text and
+model weights remain excluded. No rights to excluded material are granted.
+
+Contact: gng@xju.edu.cn (Xinjiang University).

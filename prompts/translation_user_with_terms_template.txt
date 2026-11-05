@@ -1,0 +1,8 @@
+{style_instruction}
+
+{term_hint}
+{term_lines_joined_with_newline}
+
+中文：{source_stripped}
+
+哈萨克语：

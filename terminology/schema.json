@@ -1,0 +1,63 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Frozen aligned Chinese-English-Russian-Kazakh terminology record",
+  "type": "object",
+  "properties": {
+    "entry_id": {
+      "type": "string",
+      "description": "Stable aligned-record identifier; distinct from a unique Chinese head or concept."
+    },
+    "chinese_term_source": {
+      "type": "string",
+      "description": "Provider of the Chinese-English concept name."
+    },
+    "source_entry_id": {
+      "type": "string",
+      "description": "Identifier retained from the corresponding Chinese-English provider."
+    },
+    "zh_term": {
+      "type": "string",
+      "description": "Chinese head exactly as retained in the frozen core."
+    },
+    "en_term_zh_source": {
+      "type": "string",
+      "description": "English name supplied by the Chinese-English source."
+    },
+    "en_term_issai": {
+      "type": "string",
+      "description": "English name in the ISSAI alignment source."
+    },
+    "ru_term": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Russian form retained for provenance or verification."
+    },
+    "kk_term_cyrillic": {
+      "type": "string",
+      "description": "Raw Cyrillic Kazakh display form; may contain declared alternatives rather than a single disambiguated lemma."
+    },
+    "alignment_method": {
+      "type": "string",
+      "description": "Recorded alignment procedure; does not imply manual semantic adjudication."
+    },
+    "alignment_status": {
+      "type": "string",
+      "description": "Recorded source-table status; does not imply a redistribution license."
+    }
+  },
+  "required": [
+    "entry_id",
+    "chinese_term_source",
+    "source_entry_id",
+    "zh_term",
+    "en_term_zh_source",
+    "en_term_issai",
+    "ru_term",
+    "kk_term_cyrillic",
+    "alignment_method",
+    "alignment_status"
+  ],
+  "additionalProperties": false
+}

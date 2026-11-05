@@ -1,0 +1,272 @@
+{
+  "version": "0.2.0",
+  "prepared_date": "2026-11-02",
+  "status": "prepared_for_github_upload_five_resource_types",
+  "repository_url": "https://github.com/1559204280-star/zh-kk-ai-corpus",
+  "doi": null,
+  "creators": [
+    {
+      "name": "Mingyuzhe Huang",
+      "affiliation": "Xinjiang University"
+    },
+    {
+      "name": "Gulinigeer Abudouwaili",
+      "affiliation": "Xinjiang University"
+    },
+    {
+      "name": "Changlong Xu",
+      "affiliation": "Xinjiang University"
+    }
+  ],
+  "license_status": "Original-material noncommercial licenses; included terminology table retains source-specific terms.",
+  "scope": {
+    "selection_source_pools": 49999,
+    "deduplicated_candidates": 226477,
+    "training_sources": 49998,
+    "public_aligned_term_entries": 508,
+    "public_actual_corpus_examples": 50,
+    "synthetic_demo_pairs": 3
+  },
+  "withheld_materials": [
+    "Complete 49998-pair training corpus",
+    "Source/target text beyond the 50 released examples",
+    "Original identifier mapping",
+    "Human-reference test text",
+    "Model weights"
+  ],
+  "files": [
+    {
+      "path": "docs/AVAILABILITY.md",
+      "bytes": 2243,
+      "sha256": "30c30054bc90195479c471c1b37c6f4dbffcea4fc91d3a55188e28a5f946406c"
+    },
+    {
+      "path": "docs/model_and_runtime_provenance.json",
+      "bytes": 17823,
+      "sha256": "de3d2dab685e193027fc3d0d51b2e0d3ce6c364bce9878092cd8b759b8ffbcf6"
+    },
+    {
+      "path": "evaluation/demo/predictions.txt",
+      "bytes": 201,
+      "sha256": "0c5b3c0a4afd630b26d95f316f520234234f07a1904309eb095a928d5a8aedae"
+    },
+    {
+      "path": "evaluation/demo/README.md",
+      "bytes": 341,
+      "sha256": "68c4ef423e792c3a3b71177768ee8dce11b96da237765543f3e89c2409f8e399"
+    },
+    {
+      "path": "evaluation/demo/references.txt",
+      "bytes": 201,
+      "sha256": "0c5b3c0a4afd630b26d95f316f520234234f07a1904309eb095a928d5a8aedae"
+    },
+    {
+      "path": "evaluation/evaluate_metrics.py",
+      "bytes": 1778,
+      "sha256": "8d57608d5ce989f45d3705e33b95db5eddce1d4cc25d7d38c3cda8a694bdaea8"
+    },
+    {
+      "path": "evaluation/README.md",
+      "bytes": 1884,
+      "sha256": "aeab27343309a668f882dc7b949194bed41afb347d0f67d36c4634b44d704636"
+    },
+    {
+      "path": "evaluation/requirements.txt",
+      "bytes": 18,
+      "sha256": "8b357cec273cd46ba0873d236737465a62527fd8480e036860d59c1cf0ee08cf"
+    },
+    {
+      "path": "evaluation/test_metrics.py",
+      "bytes": 871,
+      "sha256": "24201d7a9c3f2cf9e54545a1a8ee231c9bcefed733b0e19f2a32a94030e8168d"
+    },
+    {
+      "path": "evaluation/verification.json",
+      "bytes": 1108,
+      "sha256": "4498ab3e59596dfe91d9f777820dd12b9c3c7ae6cd5eb36dc72f5ef4b078ae47"
+    },
+    {
+      "path": "examples/examples50.jsonl",
+      "bytes": 12110,
+      "sha256": "1d833a4b395ddd7f40555f5ce98a5748dba0e869a734dcf5181d862a8b0e6dd5"
+    },
+    {
+      "path": "examples/README.md",
+      "bytes": 1538,
+      "sha256": "4b757640d3f12a787a37227e8ffe2d04b74560e8da9b5289dfe846914ed10506"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1766,
+      "sha256": "106fe60c385f8b9ebbf4d557d08f6efa99aa178ea958b348553701186d1c1634"
+    },
+    {
+      "path": "LICENSE-CODE.md",
+      "bytes": 4563,
+      "sha256": "c0ea4a896d2c8c394b29f9427589996db826cd501c512279ff0ed3ef48fabbe5"
+    },
+    {
+      "path": "LICENSE-DATA.md",
+      "bytes": 1477,
+      "sha256": "5159b1375f0af581040e74eb464ab4beca40db7711f9045af4776339e9698a14"
+    },
+    {
+      "path": "LICENSE_STATUS.md",
+      "bytes": 1604,
+      "sha256": "416e43ccd4d9b90bb97d09b580d2d7d22c11f56999f790b89fa3df0f073cec38"
+    },
+    {
+      "path": "prompts/assembly_rules.json",
+      "bytes": 2416,
+      "sha256": "f45198f2403482759585e90e1b0aa72fb41ce0d19183557b896386190d1dea0e"
+    },
+    {
+      "path": "prompts/deepseek_generation_config.json",
+      "bytes": 3052,
+      "sha256": "56dc89c11de0a16d87d3a8ece961943a9b92a453d2d63228f1a57a180f8012e0"
+    },
+    {
+      "path": "prompts/qwen_chat_template.txt",
+      "bytes": 317,
+      "sha256": "d23c5029f5ef8d044ea8db73a4fcefb6f62bd7b65aefe422589ed5cd1602eff8"
+    },
+    {
+      "path": "prompts/qwen_instruction.txt",
+      "bytes": 367,
+      "sha256": "3a68f8eee817703d527a5f7000ece098bc8874b14db1ae8f73a367b6079a9ed7"
+    },
+    {
+      "path": "prompts/README.md",
+      "bytes": 4303,
+      "sha256": "c9b7b0c05ac5dd39b6f944ee7c35551b754922b36f540857c19cc62ee200faba"
+    },
+    {
+      "path": "prompts/system_zh.txt",
+      "bytes": 129,
+      "sha256": "48a2ce6d59c6f036926c86944b48db026599863dc7d5eb098a0628a734bbbe68"
+    },
+    {
+      "path": "prompts/t1_zh.txt",
+      "bytes": 207,
+      "sha256": "b0d8cc696578922d0b1f75dc4dd407cf5d34fec6d1d4c78e7f5aa1b02fa1ba75"
+    },
+    {
+      "path": "prompts/t2_zh.txt",
+      "bytes": 219,
+      "sha256": "d735673f7af396c4e7d1fd1a1a6d76025bcf19bfe362b2913e00333f3bd1ca46"
+    },
+    {
+      "path": "prompts/t3_hint_zh.txt",
+      "bytes": 138,
+      "sha256": "26dd9c2f475910ee8b2a06a0573ab411af451f6c16b03929f692bf4007e5ccf6"
+    },
+    {
+      "path": "prompts/t3_term_line_template.txt",
+      "bytes": 90,
+      "sha256": "7c25891a3858913f760be9daa2e130515966f460fb6eb1ee1cc70a30ab00ed42"
+    },
+    {
+      "path": "prompts/t3_zh.txt",
+      "bytes": 186,
+      "sha256": "cb1d75c387e250a6009834b24eb5ff8041fab8540b2669c3f9311498f02799ac"
+    },
+    {
+      "path": "prompts/translation_user_no_terms_template.txt",
+      "bytes": 68,
+      "sha256": "471c327892013c053c4350fac9c21bb9fd592fcb71452fd784a53fb73fd05807"
+    },
+    {
+      "path": "prompts/translation_user_with_terms_template.txt",
+      "bytes": 117,
+      "sha256": "cdf20f888095adcda27c1be7292cc22f0dfc1954395798c7e6159f13cc7d4100"
+    },
+    {
+      "path": "README.md",
+      "bytes": 7490,
+      "sha256": "96292215ea2ef87645cdb1baf090642992a547ad322be860d7ad3fbdd81286b3"
+    },
+    {
+      "path": "selection/candidate_scores.csv.gz",
+      "bytes": 9511947,
+      "sha256": "48cddbd848511b3645dec5a7cd57cf968e771e343ddba3181513b614b50eb71d"
+    },
+    {
+      "path": "selection/protocol.json",
+      "bytes": 1091,
+      "sha256": "e197aa19ae729008e39cb8bd11a85a699ca2541ebfa09875954662cd7e757c3c"
+    },
+    {
+      "path": "selection/README.md",
+      "bytes": 4470,
+      "sha256": "ec75b29567e2c56b3cfcc9bf1caf0963dc21ced2248497cb3826792d72ad4a87"
+    },
+    {
+      "path": "selection/reproduce_selection.py",
+      "bytes": 4501,
+      "sha256": "13a46f40ccfbead4d20366413d8d5d1a2e9109731f4a5dc09ffeb7aba43c456e"
+    },
+    {
+      "path": "selection/schema.csv",
+      "bytes": 1476,
+      "sha256": "6c15b0544f834c49503ccce2145923ae96a0568b0501adc7200343afb36512d6"
+    },
+    {
+      "path": "selection/verification_summary.json",
+      "bytes": 724,
+      "sha256": "0fa6291a76ee6b4e0440b79cc46c8823dccb428950a7ef094a9cf0d16c101a47"
+    },
+    {
+      "path": "terminology/full508.csv",
+      "bytes": 106213,
+      "sha256": "2fa841d3f46655524211954e4d4cee6345e592bec1fde74dae052b9fb4f39e55"
+    },
+    {
+      "path": "terminology/LICENSE_STATUS.md",
+      "bytes": 1513,
+      "sha256": "ea95c80a37f5501c142ed026bb2bf348b9bb6fc594e6cd09f1dea345b7085ab7"
+    },
+    {
+      "path": "terminology/README.md",
+      "bytes": 1770,
+      "sha256": "614aef7aecada59b0f58ea55ae778aeb9f1c1b0bfddf4054cc6340b96378bca9"
+    },
+    {
+      "path": "terminology/schema.json",
+      "bytes": 1980,
+      "sha256": "01b0d13e89dfeb7f22876a2d1ea5ab0f9d5291ba6a2cfc42d4b6b35217e02c45"
+    },
+    {
+      "path": "terminology/source_license_status.csv",
+      "bytes": 2163,
+      "sha256": "b132d3e63fd5e3a5c21d124c8dcd887b432b914247f0ee0ce0681271bc7fb481"
+    },
+    {
+      "path": "terminology/source_manifest.json",
+      "bytes": 2825,
+      "sha256": "5e66c3e7188915413f7f177048e8aa210a010e88a379c21278baa4b7ea1bb52d"
+    }
+  ],
+  "integrity_note": "Payload hashes exclude manifest.json and SHA256SUMS.txt. SHA256SUMS.txt also hashes manifest.json but excludes itself.",
+  "metadata_revised_date": "2026-11-05",
+  "repository_access_status": "Not verified during local preparation; no upload performed.",
+  "contact_email": "gng@xju.edu.cn",
+  "doi_status": "No DOI assigned.",
+  "associated_manuscript_title": "Construction and Evaluation of a Chinese-Kazakh Parallel Corpus in the Artificial Intelligence Domain",
+  "original_code_license": "PolyForm-Noncommercial-1.0.0",
+  "original_noncode_license": "CC-BY-NC-4.0",
+  "license_files": [
+    "LICENSE",
+    "LICENSE-CODE.md",
+    "LICENSE-DATA.md"
+  ],
+  "license_decision_date": "2026-11-05",
+  "commercial_use_granted": false,
+  "license_scope_note": "Only rights held by the authors in their original released materials are licensed. Upstream and excluded material retain their terms.",
+  "availability_document": "docs/AVAILABILITY.md",
+  "terminology_license_scope": "Source-specific upstream terms; excluded from blanket CC-BY-NC-4.0 grant.",
+  "included_examples_license_scope": "Authors licensed original contributions under CC-BY-NC-4.0 to the extent applicable rights are held; no additional whole-course rights.",
+  "additional_resource_authorization": {
+    "date": "2026-11-05",
+    "basis": "Author explicitly approved inclusion of the 508-entry table and 50 actual examples."
+  }
+}
